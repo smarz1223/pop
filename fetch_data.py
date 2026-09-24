@@ -25,7 +25,12 @@ BYE_TEAMS = 2
 OUT_DIR = "data"
 
 # History names -> 2026 names (2026 names display everywhere)
-HISTORY_NAME_MAP = {"Steve": "MARZ", "Vin": "VINNY", "Jeeps": "LITTLE JAMES", "Little David": "LITTLE BUBS"}
+HISTORY_NAME_MAP = {"Vin": "VINNY", "Jeeps": "LITTLE JAMES", "Little David": "LITTLE BUBS",
+                    "Marz": "STEVE"}
+
+# 2026 owner renames, applied to Weekly Scores and the game log tables.
+# Keeps the site right whether or not the workbook itself has been updated.
+OWNER_RENAME = {"MARZ": "STEVE"}
 LEAGUE_SIZE = 12
 
 # League scoring (from SCORING MODIFIERS tab)
@@ -140,12 +145,13 @@ def read_log_table(ws, colmap, kind):
         owner, name = r[0], r[2]
         if not owner or not name:
             continue
+        owner = OWNER_RENAME.get(str(owner).strip(), str(owner).strip())
         stats = {k: num(r[i]) for k, i in idx.items()}
         if str(name).strip() == "Totals":
             totals[owner] = stats
             continue
         pname, nfl, pos = parse_name(name)
-        players.append({"owner": str(owner).strip(), "player": pname, "nfl": nfl,
+        players.append({"owner": owner, "player": pname, "nfl": nfl,
                         "pos": pos, "kind": kind, "stats": stats})
     return players, totals
 
@@ -164,6 +170,7 @@ def load_weekly(ws):
               if any(str(v).strip() == "Points For" for v in r if v is not None))
     col = {str(v).strip(): i for i, v in enumerate(rows[hi]) if v is not None}
     iw, it, ipf, ipa = col["Week"], col["Team"], col["Points For"], col["Points Against"]
+    ren = lambda t: OWNER_RENAME.get(t, t)
     weeks = collections.defaultdict(dict)
     for r in rows[hi + 1:]:
         if len(r) <= max(iw, it, ipf, ipa):
@@ -171,7 +178,7 @@ def load_weekly(ws):
         wk, team, pf, pa = r[iw], r[it], r[ipf], r[ipa]
         if wk is None or not team or pf in (None, "") or pa in (None, ""):
             continue
-        weeks[int(wk)][str(team).strip()] = {"pf": float(pf), "pa": float(pa)}
+        weeks[int(wk)][ren(str(team).strip())] = {"pf": float(pf), "pa": float(pa)}
     return dict(sorted(weeks.items()))
 
 
