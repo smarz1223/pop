@@ -1,9 +1,9 @@
 # Pop Reconciliation: PASS
-Updated 2026-09-24 14:30 UTC | Weeks entered: 2
+Updated 2026-09-24 14:48 UTC | Weeks entered: 2
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
-| MARZ | 233.60 | 229.60 | 4 | 2 | PASS |
+| STEVE | 233.60 | 229.60 | 4 | 2 | PASS |
 | JACK | 163.24 | 152.24 | 11 | 2 | PASS |
 | VINNY | 221.78 | 222.78 | -1 | 2 | PASS |
 | LITTLE BUBS | 179.70 | 171.70 | 8 | 2 | PASS |

@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-09-24 14:30 UTC",
+ "updated": "2026-09-24 14:48 UTC",
  "weeks_entered": 2,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -9,7 +9,7 @@
   17
  ],
  "owners": [
-  "MARZ",
+  "STEVE",
   "JACK",
   "VINNY",
   "LITTLE BUBS",
@@ -25,7 +25,7 @@
  "recon_status": "PASS",
  "recon": [
   {
-   "team": "MARZ",
+   "team": "STEVE",
    "weekly_total": 233.6,
    "calculated": 229.6,
    "dst_pts_allowed": 4,
@@ -200,7 +200,7 @@
    "status": "playoff"
   },
   {
-   "team": "MARZ",
+   "team": "STEVE",
    "W": 1,
    "L": 1,
    "T": 0,
@@ -355,7 +355,7 @@
  "weekly": [
   {
    "week": 1,
-   "team": "MARZ",
+   "team": "STEVE",
    "opp": "POPPY",
    "pf": 158.6,
    "pa": 101.26,
@@ -464,7 +464,7 @@
   {
    "week": 1,
    "team": "POPPY",
-   "opp": "MARZ",
+   "opp": "STEVE",
    "pf": 101.26,
    "pa": 158.6,
    "h2h": "L",
@@ -499,7 +499,7 @@
   },
   {
    "week": 2,
-   "team": "MARZ",
+   "team": "STEVE",
    "opp": "LITTLE DUANE",
    "pf": 75.0,
    "pa": 111.98,
@@ -632,7 +632,7 @@
   {
    "week": 2,
    "team": "LITTLE DUANE",
-   "opp": "MARZ",
+   "opp": "STEVE",
    "pf": 111.98,
    "pa": 75.0,
    "h2h": "W",
@@ -644,7 +644,7 @@
  ],
  "categories": {
   "Passing": {
-   "MARZ": {
+   "STEVE": {
     "raw": {
      "Pass Yds": 250.0,
      "Pass TD": 3.0,
@@ -802,7 +802,7 @@
    }
   },
   "Rushing": {
-   "MARZ": {
+   "STEVE": {
     "raw": {
      "Rush Yds": 437.0,
      "Rush TD": 0.0
@@ -936,7 +936,7 @@
    }
   },
   "Receiving": {
-   "MARZ": {
+   "STEVE": {
     "raw": {
      "Receptions": 59.0,
      "Rec Yds": 524.0,
@@ -1094,7 +1094,7 @@
    }
   },
   "Misc Offense": {
-   "MARZ": {
+   "STEVE": {
     "raw": {
      "Return TD": 0.0,
      "2-Pt Conv": 1.0,
@@ -1252,7 +1252,7 @@
    }
   },
   "Kicking": {
-   "MARZ": {
+   "STEVE": {
     "raw": {
      "FG 0-19": 0.0,
      "FG 20-29": 1.0,
@@ -1482,7 +1482,7 @@
    }
   },
   "Defense": {
-   "MARZ": {
+   "STEVE": {
     "raw": {
      "Sacks": 7.0,
      "Def INT": 2.0,
@@ -1749,7 +1749,7 @@
   }
  },
  "positions": {
-  "MARZ": {
+  "STEVE": {
    "QB": 27.4,
    "RB": 92.3,
    "WR": 54.9,
@@ -2230,7 +2230,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Ashton Jeanty",
    "nfl": "LV",
    "pos": "RB",
@@ -2257,7 +2257,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Bijan Robinson",
    "nfl": "ATL",
    "pos": "RB",
@@ -2470,7 +2470,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Evan McPherson",
    "nfl": "CIN",
    "pos": "K",
@@ -2763,7 +2763,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Jaxson Dart",
    "nfl": "NYG",
    "pos": "QB",
@@ -2842,7 +2842,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Garrett Wilson",
    "nfl": "NYJ",
    "pos": "WR",
@@ -3379,7 +3379,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Nico Collins",
    "nfl": "HOU",
    "pos": "WR",
@@ -3433,7 +3433,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Travis Etienne Jr.",
    "nfl": "NO",
    "pos": "RB",
@@ -3890,7 +3890,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Christian Watson",
    "nfl": "GB",
    "pos": "WR",
@@ -4073,7 +4073,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Harold Fannin Jr.",
    "nfl": "CLE",
    "pos": "TE",
@@ -4249,7 +4249,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Jaguars",
    "nfl": "JAX",
    "pos": "DEF",
@@ -4712,7 +4712,7 @@
    }
   },
   {
-   "owner": "MARZ",
+   "owner": "STEVE",
    "player": "Chargers",
    "nfl": "LAC",
    "pos": "DEF",
@@ -4970,7 +4970,7 @@
     "playoff_pct": 0.6667
    },
    {
-    "manager": "MARZ",
+    "manager": "STEVE",
     "active": true,
     "years": 3,
     "games": 42.0,
@@ -5188,7 +5188,7 @@
     "playoffs": 2,
     "playoff_pct": 3
    },
-   "MARZ": {
+   "STEVE": {
     "years": 1,
     "games": 1,
     "first": 1,
@@ -5271,7 +5271,7 @@
   },
   "wins_grid": {
    "2023": {
-    "MARZ": 4.0,
+    "STEVE": 4.0,
     "POPPY": 3.0,
     "Thomas": 5.0,
     "DUANE": 9.0,
@@ -5285,7 +5285,7 @@
     "LITTLE DUANE": 9.0
    },
    "2024": {
-    "MARZ": 7.0,
+    "STEVE": 7.0,
     "POPPY": 8.0,
     "Ghost": 8.0,
     "DUANE": 11.0,
@@ -5299,7 +5299,7 @@
     "LITTLE DUANE": 5.0
    },
    "2025": {
-    "MARZ": 8.0,
+    "STEVE": 8.0,
     "POPPY": 9.0,
     "JACK": 9.0,
     "DUANE": 10.0,
@@ -5315,7 +5315,7 @@
   },
   "playoff_grid": {
    "2023": {
-    "MARZ": 0,
+    "STEVE": 0,
     "POPPY": 0,
     "Thomas": 0,
     "DUANE": 1,
@@ -5329,7 +5329,7 @@
     "LITTLE DUANE": 1
    },
    "2024": {
-    "MARZ": 0,
+    "STEVE": 0,
     "POPPY": 1,
     "Ghost": 1,
     "DUANE": 1,
@@ -5343,7 +5343,7 @@
     "LITTLE DUANE": 0
    },
    "2025": {
-    "MARZ": 1,
+    "STEVE": 1,
     "POPPY": 1,
     "JACK": 1,
     "DUANE": 1,
@@ -5380,7 +5380,7 @@
    },
    {
     "year": 2025,
-    "champion": "MARZ",
+    "champion": "STEVE",
     "runner_up": "POPPY",
     "W": 8.0,
     "L": 6.0,
@@ -5399,7 +5399,7 @@
     "year": 2023,
     "seats": [
      {
-      "manager": "MARZ",
+      "manager": "STEVE",
       "type": "Original"
      },
      {
@@ -5452,7 +5452,7 @@
     "year": 2024,
     "seats": [
      {
-      "manager": "MARZ",
+      "manager": "STEVE",
       "type": "Continuing"
      },
      {
@@ -5505,7 +5505,7 @@
     "year": 2025,
     "seats": [
      {
-      "manager": "MARZ",
+      "manager": "STEVE",
       "type": "Continuing"
      },
      {
@@ -5562,7 +5562,7 @@
     "managers": [
      "DUANE",
      "LITTLE BUBS",
-     "MARZ"
+     "STEVE"
     ],
     "years": [
      "All"
@@ -5663,7 +5663,7 @@
   "seasons": [
    {
     "year": 2025,
-    "manager": "MARZ",
+    "manager": "STEVE",
     "active": true,
     "first": 1.0,
     "second": 0.0,
@@ -5819,7 +5819,7 @@
    },
    {
     "year": 2024,
-    "manager": "MARZ",
+    "manager": "STEVE",
     "active": true,
     "first": 0.0,
     "second": 0.0,
@@ -5975,7 +5975,7 @@
    },
    {
     "year": 2023,
-    "manager": "MARZ",
+    "manager": "STEVE",
     "active": true,
     "first": 0.0,
     "second": 0.0,
