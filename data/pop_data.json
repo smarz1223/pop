@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "updated": "2026-09-28 18:40 UTC",
- "weeks_entered": 2,
+ "updated": "2026-09-29 15:38 UTC",
+ "weeks_entered": 3,
  "reg_season_weeks": 14,
  "playoff_weeks": [
   15,
@@ -22,334 +22,332 @@
   "JAMES",
   "LITTLE DUANE"
  ],
- "recon_status": "LIVE",
+ "recon_status": "PASS",
  "recon": [
   {
    "team": "STEVE",
-   "weekly_total": 233.6,
+   "weekly_total": 370.6,
    "calculated": 362.6,
-   "dst_pts_allowed": -129,
+   "dst_pts_allowed": 8,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "JACK",
-   "weekly_total": 163.24,
+   "weekly_total": 271.72,
    "calculated": 264.72,
-   "dst_pts_allowed": -101,
+   "dst_pts_allowed": 7,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "VINNY",
-   "weekly_total": 221.78,
-   "calculated": 335.94,
-   "dst_pts_allowed": -114,
+   "weekly_total": 334.04,
+   "calculated": 339.04,
+   "dst_pts_allowed": -5,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "LITTLE BUBS",
-   "weekly_total": 179.7,
-   "calculated": 251.64,
-   "dst_pts_allowed": -72,
+   "weekly_total": 264.74,
+   "calculated": 256.74,
+   "dst_pts_allowed": 8,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "LITTLE JAMES",
-   "weekly_total": 185.96,
+   "weekly_total": 295.3,
    "calculated": 297.3,
-   "dst_pts_allowed": -111,
+   "dst_pts_allowed": -2,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "MASON",
-   "weekly_total": 252.48,
-   "calculated": 324.94,
-   "dst_pts_allowed": -72,
+   "weekly_total": 345.56,
+   "calculated": 338.56,
+   "dst_pts_allowed": 7,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "DUANE",
-   "weekly_total": 179.96,
-   "calculated": 249.84,
-   "dst_pts_allowed": -70,
+   "weekly_total": 258.34,
+   "calculated": 259.34,
+   "dst_pts_allowed": -1,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "BUBBA",
-   "weekly_total": 192.64,
+   "weekly_total": 282.78,
    "calculated": 275.78,
-   "dst_pts_allowed": -83,
+   "dst_pts_allowed": 7,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "DOM",
-   "weekly_total": 204.48,
+   "weekly_total": 291.44,
    "calculated": 296.44,
-   "dst_pts_allowed": -92,
+   "dst_pts_allowed": -5,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "POPPY",
-   "weekly_total": 209.4,
+   "weekly_total": 313.58,
    "calculated": 312.58,
-   "dst_pts_allowed": -103,
-   "dst_games": 2,
-   "check": "PENDING"
+   "dst_pts_allowed": 1,
+   "dst_games": 3,
+   "check": "PASS"
   },
   {
    "team": "JAMES",
-   "weekly_total": 207.86,
-   "calculated": 304.2,
-   "dst_pts_allowed": -96,
+   "weekly_total": 315.7,
+   "calculated": 312.7,
+   "dst_pts_allowed": 3,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   },
   {
    "team": "LITTLE DUANE",
-   "weekly_total": 269.82,
-   "calculated": 356.4,
-   "dst_pts_allowed": -87,
+   "weekly_total": 371.2,
+   "calculated": 366.2,
+   "dst_pts_allowed": 5,
    "dst_games": 3,
-   "check": "PENDING"
+   "check": "PASS"
   }
  ],
- "flags": [
-  "Game log shows 3 games but Weekly Scores has 2 weeks. Week in progress; reconciliation will settle once scores are entered."
- ],
+ "flags": [],
  "standings": [
   {
    "team": "LITTLE DUANE",
-   "W": 2,
+   "W": 3,
    "L": 0,
    "T": 0,
    "win_pct": 1.0,
-   "h2h": "2-0-0",
-   "allplay": "20-2-0",
-   "allplay_pct": 0.9091,
-   "exp_h2h_wins": 1.82,
-   "luck": 54.5,
-   "perf_rating": 87.4,
-   "PF": 269.82,
-   "PA": 156.06,
-   "PPG": 134.91,
-   "G": 2,
+   "h2h": "3-0-0",
+   "allplay": "25-8-0",
+   "allplay_pct": 0.7576,
+   "exp_h2h_wins": 2.27,
+   "luck": 62.1,
+   "perf_rating": 75.1,
+   "PF": 371.2,
+   "PA": 249.14,
+   "PPG": 123.73,
+   "G": 3,
    "seed": 1,
    "status": "bye"
   },
   {
-   "team": "MASON",
-   "W": 2,
+   "team": "VINNY",
+   "W": 3,
    "L": 0,
    "T": 0,
    "win_pct": 1.0,
-   "h2h": "2-0-0",
-   "allplay": "19-3-0",
-   "allplay_pct": 0.8636,
-   "exp_h2h_wins": 1.73,
-   "luck": 56.8,
-   "perf_rating": 82.2,
-   "PF": 252.48,
-   "PA": 198.56,
-   "PPG": 126.24,
-   "G": 2,
+   "h2h": "3-0-0",
+   "allplay": "25-8-0",
+   "allplay_pct": 0.7576,
+   "exp_h2h_wins": 2.27,
+   "luck": 62.1,
+   "perf_rating": 67.6,
+   "PF": 334.04,
+   "PA": 245.16,
+   "PPG": 111.35,
+   "G": 3,
    "seed": 2,
    "status": "bye"
   },
   {
-   "team": "VINNY",
-   "W": 2,
+   "team": "JAMES",
+   "W": 3,
    "L": 0,
    "T": 0,
    "win_pct": 1.0,
-   "h2h": "2-0-0",
-   "allplay": "15-7-0",
-   "allplay_pct": 0.6818,
-   "exp_h2h_wins": 1.36,
-   "luck": 65.9,
-   "perf_rating": 63.0,
-   "PF": 221.78,
-   "PA": 166.78,
-   "PPG": 110.89,
-   "G": 2,
+   "h2h": "3-0-0",
+   "allplay": "20-13-0",
+   "allplay_pct": 0.6061,
+   "exp_h2h_wins": 1.82,
+   "luck": 69.7,
+   "perf_rating": 58.5,
+   "PF": 315.7,
+   "PA": 290.26,
+   "PPG": 105.23,
+   "G": 3,
    "seed": 3,
    "status": "playoff"
   },
   {
-   "team": "JAMES",
+   "team": "STEVE",
    "W": 2,
-   "L": 0,
+   "L": 1,
    "T": 0,
-   "win_pct": 1.0,
-   "h2h": "2-0-0",
-   "allplay": "13-9-0",
-   "allplay_pct": 0.5909,
-   "exp_h2h_wins": 1.18,
-   "luck": 70.5,
-   "perf_rating": 54.2,
-   "PF": 207.86,
-   "PA": 186.08,
-   "PPG": 103.93,
-   "G": 2,
+   "win_pct": 0.6667,
+   "h2h": "2-1-0",
+   "allplay": "23-10-0",
+   "allplay_pct": 0.697,
+   "exp_h2h_wins": 2.09,
+   "luck": 48.5,
+   "perf_rating": 68.9,
+   "PF": 370.6,
+   "PA": 322.58,
+   "PPG": 123.53,
+   "G": 3,
    "seed": 4,
    "status": "playoff"
   },
   {
-   "team": "STEVE",
-   "W": 1,
+   "team": "MASON",
+   "W": 2,
    "L": 1,
    "T": 0,
-   "win_pct": 0.5,
-   "h2h": "1-1-0",
-   "allplay": "12-10-0",
-   "allplay_pct": 0.5455,
-   "exp_h2h_wins": 1.09,
-   "luck": 47.7,
-   "perf_rating": 53.8,
-   "PF": 233.6,
-   "PA": 213.24,
-   "PPG": 116.8,
-   "G": 2,
+   "win_pct": 0.6667,
+   "h2h": "2-1-0",
+   "allplay": "23-10-0",
+   "allplay_pct": 0.697,
+   "exp_h2h_wins": 2.09,
+   "luck": 48.5,
+   "perf_rating": 64.7,
+   "PF": 345.56,
+   "PA": 299.94,
+   "PPG": 115.19,
+   "G": 3,
    "seed": 5,
    "status": "playoff"
   },
   {
-   "team": "DOM",
-   "W": 1,
+   "team": "JACK",
+   "W": 2,
    "L": 1,
    "T": 0,
-   "win_pct": 0.5,
-   "h2h": "1-1-0",
-   "allplay": "9-13-0",
-   "allplay_pct": 0.4091,
-   "exp_h2h_wins": 0.82,
-   "luck": 54.5,
-   "perf_rating": 45.6,
-   "PF": 204.48,
-   "PA": 172.48,
-   "PPG": 102.24,
-   "G": 2,
+   "win_pct": 0.6667,
+   "h2h": "2-1-0",
+   "allplay": "13-20-0",
+   "allplay_pct": 0.3939,
+   "exp_h2h_wins": 1.18,
+   "luck": 63.6,
+   "perf_rating": 43.6,
+   "PF": 271.72,
+   "PA": 318.46,
+   "PPG": 90.57,
+   "G": 3,
    "seed": 6,
    "status": "playoff"
   },
   {
    "team": "LITTLE JAMES",
    "W": 1,
-   "L": 1,
+   "L": 2,
    "T": 0,
-   "win_pct": 0.5,
-   "h2h": "1-1-0",
-   "allplay": "7-15-0",
-   "allplay_pct": 0.3182,
-   "exp_h2h_wins": 0.64,
-   "luck": 59.1,
-   "perf_rating": 41.5,
-   "PF": 185.96,
-   "PA": 237.92,
-   "PPG": 92.98,
-   "G": 2,
+   "win_pct": 0.3333,
+   "h2h": "1-2-0",
+   "allplay": "16-17-0",
+   "allplay_pct": 0.4848,
+   "exp_h2h_wins": 1.45,
+   "luck": 42.4,
+   "perf_rating": 51.2,
+   "PF": 295.3,
+   "PA": 374.92,
+   "PPG": 98.43,
+   "G": 3,
    "seed": 7,
    "status": "out"
   },
   {
-   "team": "JACK",
+   "team": "DOM",
    "W": 1,
-   "L": 1,
+   "L": 2,
    "T": 0,
-   "win_pct": 0.5,
-   "h2h": "1-1-0",
-   "allplay": "5-17-0",
-   "allplay_pct": 0.2273,
-   "exp_h2h_wins": 0.45,
-   "luck": 63.6,
-   "perf_rating": 31.1,
-   "PF": 163.24,
-   "PA": 233.42,
-   "PPG": 81.62,
-   "G": 2,
+   "win_pct": 0.3333,
+   "h2h": "1-2-0",
+   "allplay": "11-22-0",
+   "allplay_pct": 0.3333,
+   "exp_h2h_wins": 1.0,
+   "luck": 50.0,
+   "perf_rating": 36.2,
+   "PF": 291.44,
+   "PA": 262.62,
+   "PPG": 97.15,
+   "G": 3,
    "seed": 8,
+   "status": "out"
+  },
+  {
+   "team": "BUBBA",
+   "W": 1,
+   "L": 2,
+   "T": 0,
+   "win_pct": 0.3333,
+   "h2h": "1-2-0",
+   "allplay": "11-22-0",
+   "allplay_pct": 0.3333,
+   "exp_h2h_wins": 1.0,
+   "luck": 50.0,
+   "perf_rating": 31.1,
+   "PF": 282.78,
+   "PA": 305.32,
+   "PPG": 94.26,
+   "G": 3,
+   "seed": 9,
    "status": "out"
   },
   {
    "team": "POPPY",
    "W": 0,
-   "L": 2,
+   "L": 3,
    "T": 0,
    "win_pct": 0.0,
-   "h2h": "0-2-0",
-   "allplay": "12-10-0",
+   "h2h": "0-3-0",
+   "allplay": "18-15-0",
    "allplay_pct": 0.5455,
-   "exp_h2h_wins": 1.09,
+   "exp_h2h_wins": 1.64,
    "luck": 22.7,
-   "perf_rating": 54.8,
-   "PF": 209.4,
-   "PA": 281.26,
-   "PPG": 104.7,
-   "G": 2,
-   "seed": 9,
-   "status": "out"
-  },
-  {
-   "team": "BUBBA",
-   "W": 0,
-   "L": 2,
-   "T": 0,
-   "win_pct": 0.0,
-   "h2h": "0-2-0",
-   "allplay": "8-14-0",
-   "allplay_pct": 0.3636,
-   "exp_h2h_wins": 0.73,
-   "luck": 31.8,
-   "perf_rating": 35.0,
-   "PF": 192.64,
-   "PA": 218.36,
-   "PPG": 96.32,
-   "G": 2,
+   "perf_rating": 55.8,
+   "PF": 313.58,
+   "PA": 389.1,
+   "PPG": 104.53,
+   "G": 3,
    "seed": 10,
-   "status": "out"
-  },
-  {
-   "team": "DUANE",
-   "W": 0,
-   "L": 2,
-   "T": 0,
-   "win_pct": 0.0,
-   "h2h": "0-2-0",
-   "allplay": "6-16-0",
-   "allplay_pct": 0.2727,
-   "exp_h2h_wins": 0.55,
-   "luck": 36.4,
-   "perf_rating": 27.3,
-   "PF": 179.96,
-   "PA": 196.78,
-   "PPG": 89.98,
-   "G": 2,
-   "seed": 11,
    "status": "out"
   },
   {
    "team": "LITTLE BUBS",
    "W": 0,
-   "L": 2,
+   "L": 3,
    "T": 0,
    "win_pct": 0.0,
-   "h2h": "0-2-0",
-   "allplay": "6-16-0",
-   "allplay_pct": 0.2727,
+   "h2h": "0-3-0",
+   "allplay": "7-26-0",
+   "allplay_pct": 0.2121,
+   "exp_h2h_wins": 0.64,
+   "luck": 39.4,
+   "perf_rating": 24.5,
+   "PF": 264.74,
+   "PA": 348.46,
+   "PPG": 88.25,
+   "G": 3,
+   "seed": 11,
+   "status": "out"
+  },
+  {
+   "team": "DUANE",
+   "W": 0,
+   "L": 3,
+   "T": 0,
+   "win_pct": 0.0,
+   "h2h": "0-3-0",
+   "allplay": "6-27-0",
+   "allplay_pct": 0.1818,
    "exp_h2h_wins": 0.55,
-   "luck": 36.4,
-   "perf_rating": 29.5,
-   "PF": 179.7,
-   "PA": 239.98,
-   "PPG": 89.85,
-   "G": 2,
+   "luck": 40.9,
+   "perf_rating": 20.4,
+   "PF": 258.34,
+   "PA": 309.04,
+   "PPG": 86.11,
+   "G": 3,
    "seed": 12,
    "status": "out"
   }
@@ -642,6 +640,150 @@
    "rank": 2,
    "allplay": "10-1-0",
    "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "STEVE",
+   "opp": "LITTLE JAMES",
+   "pf": 137.0,
+   "pa": 109.34,
+   "h2h": "W",
+   "avg": 101.17,
+   "rank": 1,
+   "allplay": "11-0-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "JACK",
+   "opp": "LITTLE BUBS",
+   "pf": 108.48,
+   "pa": 85.04,
+   "h2h": "W",
+   "avg": 101.17,
+   "rank": 4,
+   "allplay": "8-3-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "VINNY",
+   "opp": "DUANE",
+   "pf": 112.26,
+   "pa": 78.38,
+   "h2h": "W",
+   "avg": 101.17,
+   "rank": 2,
+   "allplay": "10-1-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "LITTLE BUBS",
+   "opp": "JACK",
+   "pf": 85.04,
+   "pa": 108.48,
+   "h2h": "L",
+   "avg": 101.17,
+   "rank": 11,
+   "allplay": "1-10-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "LITTLE JAMES",
+   "opp": "STEVE",
+   "pf": 109.34,
+   "pa": 137.0,
+   "h2h": "L",
+   "avg": 101.17,
+   "rank": 3,
+   "allplay": "9-2-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "MASON",
+   "opp": "LITTLE DUANE",
+   "pf": 93.08,
+   "pa": 101.38,
+   "h2h": "L",
+   "avg": 101.17,
+   "rank": 8,
+   "allplay": "4-7-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "DUANE",
+   "opp": "VINNY",
+   "pf": 78.38,
+   "pa": 112.26,
+   "h2h": "L",
+   "avg": 101.17,
+   "rank": 12,
+   "allplay": "0-11-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "BUBBA",
+   "opp": "DOM",
+   "pf": 90.14,
+   "pa": 86.96,
+   "h2h": "W",
+   "avg": 101.17,
+   "rank": 9,
+   "allplay": "3-8-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "DOM",
+   "opp": "BUBBA",
+   "pf": 86.96,
+   "pa": 90.14,
+   "h2h": "L",
+   "avg": 101.17,
+   "rank": 10,
+   "allplay": "2-9-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "POPPY",
+   "opp": "JAMES",
+   "pf": 104.18,
+   "pa": 107.84,
+   "h2h": "L",
+   "avg": 101.17,
+   "rank": 6,
+   "allplay": "6-5-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "JAMES",
+   "opp": "POPPY",
+   "pf": 107.84,
+   "pa": 104.18,
+   "h2h": "W",
+   "avg": 101.17,
+   "rank": 5,
+   "allplay": "7-4-0",
+   "playoff": false
+  },
+  {
+   "week": 3,
+   "team": "LITTLE DUANE",
+   "opp": "MASON",
+   "pf": 101.38,
+   "pa": 93.08,
+   "h2h": "W",
+   "avg": 101.17,
+   "rank": 7,
+   "allplay": "5-6-0",
+   "playoff": false
   }
  ],
  "categories": {
@@ -713,16 +855,16 @@
    },
    "MASON": {
     "raw": {
-     "Pass Yds": 481.0,
+     "Pass Yds": 634.0,
      "Pass TD": 5.0,
-     "Pass INT": 2.0
+     "Pass INT": 3.0
     },
     "pts": {
-     "Pass Yds": 19.24,
+     "Pass Yds": 25.36,
      "Pass TD": 20.0,
-     "Pass INT": -2.0
+     "Pass INT": -3.0
     },
-    "total": 37.24
+    "total": 42.36
    },
    "DUANE": {
     "raw": {
@@ -828,14 +970,14 @@
    },
    "VINNY": {
     "raw": {
-     "Rush Yds": 576.0,
+     "Rush Yds": 607.0,
      "Rush TD": 10.0
     },
     "pts": {
-     "Rush Yds": 57.6,
+     "Rush Yds": 60.7,
      "Rush TD": 60.0
     },
-    "total": 117.6
+    "total": 120.7
    },
    "LITTLE BUBS": {
     "raw": {
@@ -861,14 +1003,14 @@
    },
    "MASON": {
     "raw": {
-     "Rush Yds": 536.0,
-     "Rush TD": 3.0
+     "Rush Yds": 561.0,
+     "Rush TD": 4.0
     },
     "pts": {
-     "Rush Yds": 53.6,
-     "Rush TD": 18.0
+     "Rush Yds": 56.1,
+     "Rush TD": 24.0
     },
-    "total": 71.6
+    "total": 80.1
    },
    "DUANE": {
     "raw": {
@@ -916,25 +1058,25 @@
    },
    "JAMES": {
     "raw": {
-     "Rush Yds": 385.0,
+     "Rush Yds": 467.0,
      "Rush TD": 1.0
     },
     "pts": {
-     "Rush Yds": 38.5,
+     "Rush Yds": 46.7,
      "Rush TD": 6.0
     },
-    "total": 44.5
+    "total": 52.7
    },
    "LITTLE DUANE": {
     "raw": {
-     "Rush Yds": 674.0,
+     "Rush Yds": 758.0,
      "Rush TD": 10.0
     },
     "pts": {
-     "Rush Yds": 67.4,
+     "Rush Yds": 75.8,
      "Rush TD": 60.0
     },
-    "total": 127.4
+    "total": 135.8
    }
   },
   "Receiving": {
@@ -979,16 +1121,16 @@
    },
    "LITTLE BUBS": {
     "raw": {
-     "Receptions": 53.0,
-     "Rec Yds": 642.0,
+     "Receptions": 57.0,
+     "Rec Yds": 673.0,
      "Rec TD": 1.0
     },
     "pts": {
-     "Receptions": 26.5,
-     "Rec Yds": 64.2,
+     "Receptions": 28.5,
+     "Rec Yds": 67.3,
      "Rec TD": 6.0
     },
-    "total": 96.7
+    "total": 101.8
    },
    "LITTLE JAMES": {
     "raw": {
@@ -1018,16 +1160,16 @@
    },
    "DUANE": {
     "raw": {
-     "Receptions": 71.0,
-     "Rec Yds": 684.0,
+     "Receptions": 77.0,
+     "Rec Yds": 749.0,
      "Rec TD": 3.0
     },
     "pts": {
-     "Receptions": 35.5,
-     "Rec Yds": 68.4,
+     "Receptions": 38.5,
+     "Rec Yds": 74.9,
      "Rec TD": 18.0
     },
-    "total": 121.9
+    "total": 131.4
    },
    "BUBBA": {
     "raw": {
@@ -1070,29 +1212,29 @@
    },
    "JAMES": {
     "raw": {
-     "Receptions": 68.0,
-     "Rec Yds": 925.0,
+     "Receptions": 69.0,
+     "Rec Yds": 923.0,
      "Rec TD": 5.0
     },
     "pts": {
-     "Receptions": 34.0,
-     "Rec Yds": 92.5,
+     "Receptions": 34.5,
+     "Rec Yds": 92.3,
      "Rec TD": 30.0
     },
-    "total": 156.5
+    "total": 156.8
    },
    "LITTLE DUANE": {
     "raw": {
-     "Receptions": 71.0,
-     "Rec Yds": 709.0,
+     "Receptions": 73.0,
+     "Rec Yds": 713.0,
      "Rec TD": 9.0
     },
     "pts": {
-     "Receptions": 35.5,
-     "Rec Yds": 70.9,
+     "Receptions": 36.5,
+     "Rec Yds": 71.3,
      "Rec TD": 54.0
     },
-    "total": 160.4
+    "total": 161.8
    }
   },
   "Misc Offense": {
@@ -1502,9 +1644,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -129.0
+     "DST Pts Allowed": 8.0
     },
-    "total": -112.0
+    "total": 25.0
    },
    "JACK": {
     "raw": {
@@ -1524,9 +1666,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -101.0
+     "DST Pts Allowed": 7.0
     },
-    "total": -82.0
+    "total": 26.0
    },
    "VINNY": {
     "raw": {
@@ -1546,9 +1688,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -114.0
+     "DST Pts Allowed": -5.0
     },
-    "total": -106.0
+    "total": 3.0
    },
    "LITTLE BUBS": {
     "raw": {
@@ -1568,9 +1710,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -72.0
+     "DST Pts Allowed": 8.0
     },
-    "total": -57.0
+    "total": 23.0
    },
    "LITTLE JAMES": {
     "raw": {
@@ -1590,9 +1732,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -111.0
+     "DST Pts Allowed": -2.0
     },
-    "total": -94.0
+    "total": 15.0
    },
    "MASON": {
     "raw": {
@@ -1612,9 +1754,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -72.0
+     "DST Pts Allowed": 7.0
     },
-    "total": -62.0
+    "total": 17.0
    },
    "DUANE": {
     "raw": {
@@ -1634,9 +1776,9 @@
      "Safety": 0.0,
      "Blocked Kick": 2.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -70.0
+     "DST Pts Allowed": -1.0
     },
-    "total": -56.0
+    "total": 13.0
    },
    "BUBBA": {
     "raw": {
@@ -1656,9 +1798,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -83.0
+     "DST Pts Allowed": 7.0
     },
-    "total": -74.0
+    "total": 16.0
    },
    "DOM": {
     "raw": {
@@ -1678,9 +1820,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -92.0
+     "DST Pts Allowed": -5.0
     },
-    "total": -72.0
+    "total": 15.0
    },
    "POPPY": {
     "raw": {
@@ -1700,9 +1842,9 @@
      "Safety": 0.0,
      "Blocked Kick": 2.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -103.0
+     "DST Pts Allowed": 1.0
     },
-    "total": -98.0
+    "total": 6.0
    },
    "JAMES": {
     "raw": {
@@ -1722,9 +1864,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -96.0
+     "DST Pts Allowed": 3.0
     },
-    "total": -74.0
+    "total": 25.0
    },
    "LITTLE DUANE": {
     "raw": {
@@ -1744,9 +1886,9 @@
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -87.0
+     "DST Pts Allowed": 5.0
     },
-    "total": -61.0
+    "total": 31.0
    }
   }
  },
@@ -1757,7 +1899,7 @@
    "WR": 98.5,
    "TE": 15.5,
    "K": 42.0,
-   "DEF": -112.0
+   "DEF": 25.0
   },
   "JACK": {
    "QB": 53.92,
@@ -1765,23 +1907,23 @@
    "WR": 87.1,
    "TE": 41.4,
    "K": 14.0,
-   "DEF": -82.0
+   "DEF": 26.0
   },
   "VINNY": {
    "QB": 95.44,
-   "RB": 118.2,
+   "RB": 121.3,
    "WR": 71.8,
    "TE": 13.5,
    "K": 29.0,
-   "DEF": -106.0
+   "DEF": 3.0
   },
   "LITTLE BUBS": {
    "QB": 58.74,
    "RB": 86.5,
    "WR": 58.6,
-   "TE": 0.8,
+   "TE": 5.9,
    "K": 32.0,
-   "DEF": -57.0
+   "DEF": 23.0
   },
   "LITTLE JAMES": {
    "QB": 61.2,
@@ -1789,23 +1931,23 @@
    "WR": 67.3,
    "TE": 43.3,
    "K": 27.0,
-   "DEF": -94.0
+   "DEF": 15.0
   },
   "MASON": {
-   "QB": 42.88,
+   "QB": 56.5,
    "RB": 74.8,
    "WR": 130.16,
    "TE": 46.1,
    "K": 21.0,
-   "DEF": -62.0
+   "DEF": 17.0
   },
   "DUANE": {
    "QB": 54.04,
    "RB": 61.7,
-   "WR": 68.7,
+   "WR": 78.2,
    "TE": 27.4,
    "K": 24.0,
-   "DEF": -56.0
+   "DEF": 13.0
   },
   "BUBBA": {
    "QB": 37.88,
@@ -1813,7 +1955,7 @@
    "WR": 29.0,
    "TE": 15.1,
    "K": 23.0,
-   "DEF": -74.0
+   "DEF": 16.0
   },
   "DOM": {
    "QB": 75.64,
@@ -1821,7 +1963,7 @@
    "WR": 91.4,
    "TE": 24.7,
    "K": 25.0,
-   "DEF": -72.0
+   "DEF": 15.0
   },
   "POPPY": {
    "QB": 63.68,
@@ -1829,23 +1971,23 @@
    "WR": 108.5,
    "TE": 37.3,
    "K": 16.0,
-   "DEF": -98.0
+   "DEF": 6.0
   },
   "JAMES": {
    "QB": 64.1,
-   "RB": 58.5,
+   "RB": 67.0,
    "WR": 119.9,
    "TE": 18.7,
    "K": 21.0,
-   "DEF": -74.0
+   "DEF": 25.0
   },
   "LITTLE DUANE": {
    "QB": 36.5,
-   "RB": 141.1,
+   "RB": 150.9,
    "WR": 99.9,
    "TE": 31.9,
    "K": 21.0,
-   "DEF": -61.0
+   "DEF": 31.0
   }
  },
  "players": [
@@ -2184,6 +2326,34 @@
    }
   },
   {
+   "owner": "MASON",
+   "player": "Jalen Hurts",
+   "nfl": "PHI",
+   "pos": "QB",
+   "gp": 3,
+   "points": 56.5,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 620.0,
+    "Pass TD": 5.0,
+    "Pass INT": 3.0,
+    "Rush Yds": 87.0,
+    "Rush TD": 1.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 24.8,
+    "Pass TD": 20.0,
+    "Pass INT": -3.0,
+    "Rush Yds": 8.7,
+    "Rush TD": 6.0
+   }
+  },
+  {
    "owner": "DUANE",
    "player": "Trevor Lawrence",
    "nfl": "JAX",
@@ -2235,6 +2405,34 @@
     "Pass TD": 24.0,
     "Pass INT": -1.0,
     "Rush Yds": 3.2,
+    "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "LITTLE DUANE",
+   "player": "D'Andre Swift",
+   "nfl": "CHI",
+   "pos": "RB",
+   "gp": 3,
+   "points": 52.1,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 253.0,
+    "Rush TD": 3.0,
+    "Receptions": 8.0,
+    "Rec Yds": 68.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 25.3,
+    "Rush TD": 18.0,
+    "Receptions": 4.0,
+    "Rec Yds": 6.8,
     "Fumbles Lost": -2.0
    }
   },
@@ -2511,61 +2709,6 @@
    }
   },
   {
-   "owner": "MASON",
-   "player": "Jalen Hurts",
-   "nfl": "PHI",
-   "pos": "QB",
-   "gp": 2,
-   "points": 42.88,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 467.0,
-    "Pass TD": 5.0,
-    "Pass INT": 2.0,
-    "Rush Yds": 62.0,
-    "Rush TD": 0.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 18.68,
-    "Pass TD": 20.0,
-    "Pass INT": -2.0,
-    "Rush Yds": 6.2
-   }
-  },
-  {
-   "owner": "LITTLE DUANE",
-   "player": "D'Andre Swift",
-   "nfl": "CHI",
-   "pos": "RB",
-   "gp": 2,
-   "points": 42.3,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 169.0,
-    "Rush TD": 3.0,
-    "Receptions": 6.0,
-    "Rec Yds": 64.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 16.9,
-    "Rush TD": 18.0,
-    "Receptions": 3.0,
-    "Rec Yds": 6.4,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
    "owner": "STEVE",
    "player": "Evan McPherson",
    "nfl": "CIN",
@@ -2637,6 +2780,32 @@
     "Receptions": 6.0,
     "Rec Yds": 17.4,
     "Rec TD": 18.0
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "DeVonta Smith",
+   "nfl": "PHI",
+   "pos": "WR",
+   "gp": 3,
+   "points": 39.0,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 19.0,
+    "Rec Yds": 235.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 9.5,
+    "Rec Yds": 23.5,
+    "Rec TD": 6.0
    }
   },
   {
@@ -3222,32 +3391,6 @@
     "Pass TD": 16.0,
     "Pass INT": -2.0,
     "Rush Yds": 0.5
-   }
-  },
-  {
-   "owner": "DUANE",
-   "player": "DeVonta Smith",
-   "nfl": "PHI",
-   "pos": "WR",
-   "gp": 2,
-   "points": 29.5,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 13.0,
-    "Rec Yds": 170.0,
-    "Rec TD": 1.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 6.5,
-    "Rec Yds": 17.0,
-    "Rec TD": 6.0
    }
   },
   {
@@ -3925,7 +4068,7 @@
   },
   {
    "owner": "DOM",
-   "player": "Lions",
+   "player": "Detroit",
    "nfl": "DET",
    "pos": "DEF",
    "gp": 3,
@@ -3943,6 +4086,32 @@
     "Sacks": 12.0,
     "Def INT": 4.0,
     "Fum Rec": 4.0
+   }
+  },
+  {
+   "owner": "JAMES",
+   "player": "Saquon Barkley",
+   "nfl": "PHI",
+   "pos": "RB",
+   "gp": 3,
+   "points": 19.5,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 174.0,
+    "Rush TD": 0.0,
+    "Receptions": 3.0,
+    "Rec Yds": 6.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 17.4,
+    "Receptions": 1.5,
+    "Rec Yds": 0.6
    }
   },
   {
@@ -4195,7 +4364,7 @@
   },
   {
    "owner": "LITTLE BUBS",
-   "player": "Seattle",
+   "player": "Seahawks",
    "nfl": "SEA",
    "pos": "DEF",
    "gp": 3,
@@ -4593,32 +4762,6 @@
   },
   {
    "owner": "JAMES",
-   "player": "Saquon Barkley",
-   "nfl": "PHI",
-   "pos": "RB",
-   "gp": 2,
-   "points": 11.0,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 92.0,
-    "Rush TD": 0.0,
-    "Receptions": 2.0,
-    "Rec Yds": 8.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 9.2,
-    "Receptions": 1.0,
-    "Rec Yds": 0.8
-   }
-  },
-  {
-   "owner": "JAMES",
    "player": "Jameson Williams",
    "nfl": "DET",
    "pos": "WR",
@@ -4857,6 +5000,31 @@
    }
   },
   {
+   "owner": "LITTLE BUBS",
+   "player": "Colston Loveland",
+   "nfl": "CHI",
+   "pos": "TE",
+   "gp": 3,
+   "points": 5.9,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 5.0,
+    "Rec Yds": 34.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 2.5,
+    "Rec Yds": 3.4
+   }
+  },
+  {
    "owner": "POPPY",
    "player": "Brian Thomas Jr.",
    "nfl": "JAX",
@@ -4886,7 +5054,7 @@
    "player": "Eagles",
    "nfl": "PHI",
    "pos": "DEF",
-   "gp": 2,
+   "gp": 3,
    "points": 5.0,
    "stats": {
     "Blocked Kick": 1.0,
@@ -5116,6 +5284,30 @@
    }
   },
   {
+   "owner": "VINNY",
+   "player": "Kyle Monangai",
+   "nfl": "CHI",
+   "pos": "RB",
+   "gp": 1,
+   "points": 3.1,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 31.0,
+    "Rush TD": 0.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 3.1
+   }
+  },
+  {
    "owner": "DUANE",
    "player": "Xavier Worthy",
    "nfl": "KC",
@@ -5247,31 +5439,6 @@
    },
    "pts_by_cat": {
     "Def INT": 2.0
-   }
-  },
-  {
-   "owner": "LITTLE BUBS",
-   "player": "Colston Loveland",
-   "nfl": "CHI",
-   "pos": "TE",
-   "gp": 2,
-   "points": 0.8,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 1.0,
-    "Rec Yds": 3.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 0.5,
-    "Rec Yds": 0.3
    }
   },
   {
