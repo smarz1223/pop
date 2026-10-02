@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-10-01 17:26 UTC",
+ "updated": "2026-10-02 16:45 UTC",
  "weeks_entered": 3,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -3547,7 +3547,7 @@
   },
   {
    "owner": "LITTLE DUANE",
-   "player": "Steelers",
+   "player": "Pittsburgh",
    "nfl": "PIT",
    "pos": "DEF",
    "gp": 3,
@@ -3901,7 +3901,7 @@
   },
   {
    "owner": "JAMES",
-   "player": "Broncos",
+   "player": "Denver",
    "nfl": "DEN",
    "pos": "DEF",
    "gp": 3,
@@ -4068,7 +4068,7 @@
   },
   {
    "owner": "DOM",
-   "player": "Lions",
+   "player": "Detroit",
    "nfl": "DET",
    "pos": "DEF",
    "gp": 3,
@@ -4265,7 +4265,7 @@
   },
   {
    "owner": "LITTLE JAMES",
-   "player": "Texans",
+   "player": "Houston",
    "nfl": "HOU",
    "pos": "DEF",
    "gp": 3,
@@ -4364,7 +4364,7 @@
   },
   {
    "owner": "LITTLE BUBS",
-   "player": "Seahawks",
+   "player": "Seattle",
    "nfl": "SEA",
    "pos": "DEF",
    "gp": 3,
@@ -4859,7 +4859,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Jaguars",
+   "player": "Jacksonville",
    "nfl": "JAX",
    "pos": "DEF",
    "gp": 1,
@@ -5196,7 +5196,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Chargers",
+   "player": "Los Angeles",
    "nfl": "LAC",
    "pos": "DEF",
    "gp": 1,
@@ -5217,7 +5217,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Chiefs",
+   "player": "Kansas City",
    "nfl": "KC",
    "pos": "DEF",
    "gp": 1,
