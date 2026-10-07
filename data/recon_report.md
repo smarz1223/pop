@@ -1,5 +1,5 @@
 # Pop Reconciliation: PASS
-Updated 2026-10-06 17:20 UTC | Weeks entered: 4
+Updated 2026-10-07 17:53 UTC | Weeks entered: 4
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
