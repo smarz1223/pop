@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-10-07 17:53 UTC",
+ "updated": "2026-10-08 17:56 UTC",
  "weeks_entered": 4,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -5023,7 +5023,7 @@
   },
   {
    "owner": "BUBBA",
-   "player": "Rams",
+   "player": "Los Angeles",
    "nfl": "LAR",
    "pos": "DEF",
    "gp": 4,
@@ -5273,7 +5273,7 @@
   },
   {
    "owner": "POPPY",
-   "player": "Philadelphia",
+   "player": "Eagles",
    "nfl": "PHI",
    "pos": "DEF",
    "gp": 4,
@@ -5320,7 +5320,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Jaguars",
+   "player": "Jacksonville",
    "nfl": "JAX",
    "pos": "DEF",
    "gp": 1,
@@ -5618,7 +5618,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Chargers",
+   "player": "Los Angeles",
    "nfl": "LAC",
    "pos": "DEF",
    "gp": 1,
@@ -5639,7 +5639,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Chiefs",
+   "player": "Kansas City",
    "nfl": "KC",
    "pos": "DEF",
    "gp": 1,
@@ -5660,7 +5660,7 @@
   },
   {
    "owner": "STEVE",
-   "player": "Vikings",
+   "player": "Minnesota",
    "nfl": "MIN",
    "pos": "DEF",
    "gp": 1,
