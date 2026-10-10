@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-10-09 17:30 UTC",
+ "updated": "2026-10-10 16:18 UTC",
  "weeks_entered": 4,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -4534,7 +4534,7 @@
   },
   {
    "owner": "LITTLE JAMES",
-   "player": "Houston",
+   "player": "Texans",
    "nfl": "HOU",
    "pos": "DEF",
    "gp": 4,
@@ -5028,7 +5028,7 @@
   },
   {
    "owner": "BUBBA",
-   "player": "Los Angeles",
+   "player": "Rams",
    "nfl": "LAR",
    "pos": "DEF",
    "gp": 4,
@@ -5527,7 +5527,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Dallas",
+   "player": "Cowboys",
    "nfl": "DAL",
    "pos": "DEF",
    "gp": 2,
@@ -5548,7 +5548,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Buffalo",
+   "player": "Bills",
    "nfl": "BUF",
    "pos": "DEF",
    "gp": 1,
@@ -5802,7 +5802,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Tampa Bay",
+   "player": "Buccaneers",
    "nfl": "TB",
    "pos": "DEF",
    "gp": 1,
@@ -5822,7 +5822,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Green Bay",
+   "player": "Packers",
    "nfl": "GB",
    "pos": "DEF",
    "gp": 1,
