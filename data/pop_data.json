@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-10-16 15:26 UTC",
+ "updated": "2026-10-17 14:19 UTC",
  "weeks_entered": 5,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -4202,7 +4202,7 @@
   },
   {
    "owner": "LITTLE BUBS",
-   "player": "Seahawks",
+   "player": "Seattle",
    "nfl": "SEA",
    "pos": "DEF",
    "gp": 6,
@@ -4355,7 +4355,7 @@
   },
   {
    "owner": "JAMES",
-   "player": "Broncos",
+   "player": "Denver",
    "nfl": "DEN",
    "pos": "DEF",
    "gp": 5,
@@ -4379,7 +4379,7 @@
   },
   {
    "owner": "LITTLE DUANE",
-   "player": "Steelers",
+   "player": "Pittsburgh",
    "nfl": "PIT",
    "pos": "DEF",
    "gp": 5,
@@ -4605,7 +4605,7 @@
   },
   {
    "owner": "DOM",
-   "player": "Lions",
+   "player": "Detroit",
    "nfl": "DET",
    "pos": "DEF",
    "gp": 5,
@@ -5431,7 +5431,7 @@
   },
   {
    "owner": "POPPY",
-   "player": "Eagles",
+   "player": "Philadelphia",
    "nfl": "PHI",
    "pos": "DEF",
    "gp": 5,
@@ -6011,7 +6011,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Cowboys",
+   "player": "Dallas",
    "nfl": "DAL",
    "pos": "DEF",
    "gp": 2,
@@ -6032,7 +6032,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Bills",
+   "player": "Buffalo",
    "nfl": "BUF",
    "pos": "DEF",
    "gp": 1,
@@ -6366,7 +6366,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Buccaneers",
+   "player": "Tampa Bay",
    "nfl": "TB",
    "pos": "DEF",
    "gp": 1,
@@ -6386,7 +6386,7 @@
   },
   {
    "owner": "VINNY",
-   "player": "Packers",
+   "player": "Green Bay",
    "nfl": "GB",
    "pos": "DEF",
    "gp": 1,
@@ -6406,7 +6406,7 @@
   },
   {
    "owner": "JAMES",
-   "player": "Bears",
+   "player": "Chicago",
    "nfl": "CHI",
    "pos": "DEF",
    "gp": 1,
