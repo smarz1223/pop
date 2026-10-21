@@ -1,20 +1,20 @@
-# Pop Reconciliation: LIVE
-Updated 2026-10-20 15:43 UTC | Weeks entered: 5
+# Pop Reconciliation: PASS
+Updated 2026-10-21 13:20 UTC | Weeks entered: 6
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
-| STEVE | 582.98 | 659.14 | -76 | 6 | PENDING |
-| JACK | 444.44 | 508.62 | -64 | 6 | PENDING |
-| VINNY | 618.26 | 712.46 | -94 | 6 | PENDING |
-| LITTLE BUBS | 559.10 | 648.10 | -89 | 6 | PENDING |
-| LITTLE JAMES | 469.32 | 542.48 | -73 | 6 | PENDING |
-| MASON | 540.90 | 619.14 | -78 | 6 | PENDING |
-| DUANE | 510.46 | 615.24 | -105 | 6 | PENDING |
-| BUBBA | 460.88 | 584.12 | -123 | 6 | PENDING |
-| DOM | 502.56 | 606.56 | -104 | 6 | PENDING |
-| POPPY | 494.86 | 585.22 | -90 | 6 | PENDING |
-| JAMES | 536.64 | 616.46 | -80 | 6 | PENDING |
-| LITTLE DUANE | 602.02 | 707.84 | -106 | 6 | PENDING |
+| STEVE | 682.14 | 659.14 | 23 | 6 | PASS |
+| JACK | 517.62 | 508.62 | 9 | 6 | PASS |
+| VINNY | 706.46 | 712.46 | -6 | 6 | PASS |
+| LITTLE BUBS | 657.10 | 648.10 | 9 | 6 | PASS |
+| LITTLE JAMES | 545.48 | 542.48 | 3 | 6 | PASS |
+| MASON | 627.14 | 619.14 | 8 | 6 | PASS |
+| DUANE | 620.24 | 615.24 | 5 | 6 | PASS |
+| BUBBA | 589.12 | 584.12 | 5 | 6 | PASS |
+| DOM | 600.56 | 606.56 | -6 | 6 | PASS |
+| POPPY | 587.22 | 585.22 | 2 | 6 | PASS |
+| JAMES | 619.46 | 616.46 | 3 | 6 | PASS |
+| LITTLE DUANE | 713.84 | 707.84 | 6 | 6 | PASS |
 
 ## Flags
-- Game log shows 6 games but Weekly Scores has 5 weeks. Week in progress; reconciliation will settle once scores are entered.
+- None
