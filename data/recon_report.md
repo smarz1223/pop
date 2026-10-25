@@ -1,5 +1,5 @@
 # Pop Reconciliation: LIVE
-Updated 2026-10-24 14:43 UTC | Weeks entered: 6
+Updated 2026-10-25 15:00 UTC | Weeks entered: 6
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
