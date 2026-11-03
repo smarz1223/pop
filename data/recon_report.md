@@ -1,20 +1,20 @@
 # Pop Reconciliation: PASS
-Updated 2026-11-02 20:51 UTC | Weeks entered: 7
+Updated 2026-11-03 13:58 UTC | Weeks entered: 8
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
-| STEVE | 760.66 | 733.66 | 27 | 7 | PASS |
-| JACK | 612.90 | 604.90 | 8 | 7 | PASS |
-| VINNY | 825.66 | 832.66 | -7 | 7 | PASS |
-| LITTLE BUBS | 794.54 | 778.54 | 16 | 7 | PASS |
-| LITTLE JAMES | 654.30 | 651.30 | 3 | 7 | PASS |
-| MASON | 729.16 | 722.16 | 7 | 7 | PASS |
-| DUANE | 692.04 | 691.04 | 1 | 7 | PASS |
-| BUBBA | 693.38 | 688.38 | 5 | 7 | PASS |
-| DOM | 718.08 | 724.08 | -6 | 7 | PASS |
-| POPPY | 664.04 | 666.04 | -2 | 7 | PASS |
-| JAMES | 753.84 | 749.84 | 4 | 7 | PASS |
-| LITTLE DUANE | 804.56 | 794.56 | 10 | 7 | PASS |
+| STEVE | 856.94 | 828.94 | 28 | 8 | PASS |
+| JACK | 742.18 | 733.18 | 9 | 8 | PASS |
+| VINNY | 980.82 | 983.82 | -3 | 8 | PASS |
+| LITTLE BUBS | 875.00 | 860.00 | 15 | 8 | PASS |
+| LITTLE JAMES | 767.70 | 760.70 | 7 | 8 | PASS |
+| MASON | 844.42 | 841.42 | 3 | 8 | PASS |
+| DUANE | 789.24 | 792.24 | -3 | 8 | PASS |
+| BUBBA | 781.10 | 772.10 | 9 | 8 | PASS |
+| DOM | 832.66 | 839.66 | -7 | 8 | PASS |
+| POPPY | 760.02 | 762.02 | -2 | 8 | PASS |
+| JAMES | 831.84 | 827.84 | 4 | 8 | PASS |
+| LITTLE DUANE | 912.02 | 895.02 | 17 | 8 | PASS |
 
 ## Flags
 - None
