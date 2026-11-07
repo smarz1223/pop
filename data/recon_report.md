@@ -1,5 +1,5 @@
 # Pop Reconciliation: FAIL
-Updated 2026-11-06 18:11 UTC | Weeks entered: 8
+Updated 2026-11-07 16:56 UTC | Weeks entered: 8
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|

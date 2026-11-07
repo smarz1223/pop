@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-11-06 18:11 UTC",
+ "updated": "2026-11-07 16:56 UTC",
  "weeks_entered": 8,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -5097,7 +5097,7 @@
   },
   {
    "owner": "LITTLE BUBS",
-   "player": "Seahawks",
+   "player": "Seattle",
    "nfl": "SEA",
    "pos": "DEF",
    "gp": 8,
@@ -6352,7 +6352,7 @@
   },
   {
    "owner": "POPPY",
-   "player": "Eagles",
+   "player": "Philadelphia",
    "nfl": "PHI",
    "pos": "DEF",
    "gp": 8,
