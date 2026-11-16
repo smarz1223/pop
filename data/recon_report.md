@@ -1,25 +1,20 @@
-# Pop Reconciliation: FAIL
-Updated 2026-11-15 17:54 UTC | Weeks entered: 9
+# Pop Reconciliation: LIVE
+Updated 2026-11-16 21:08 UTC | Weeks entered: 9
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
-| STEVE | 989.74 | 961.74 | 28 | 9 | PASS |
-| JACK | 829.32 | 831.82 | -2 | 9 | FAIL |
-| VINNY | 1118.88 | 1117.88 | 1 | 9 | PASS |
-| LITTLE BUBS | 974.86 | 952.86 | 22 | 9 | PASS |
-| LITTLE JAMES | 851.30 | 865.60 | -14 | 10 | FAIL |
-| MASON | 931.86 | 967.76 | -36 | 9 | FAIL |
-| DUANE | 902.92 | 912.62 | -10 | 10 | FAIL |
-| BUBBA | 895.08 | 882.08 | 13 | 9 | PASS |
-| DOM | 924.72 | 936.62 | -12 | 9 | FAIL |
-| POPPY | 865.30 | 866.30 | -1 | 9 | PASS |
-| JAMES | 928.04 | 924.04 | 4 | 9 | PASS |
-| LITTLE DUANE | 1035.78 | 1041.98 | -6 | 9 | FAIL |
+| STEVE | 989.74 | 1083.32 | -94 | 10 | PENDING |
+| JACK | 829.32 | 937.08 | -108 | 10 | PENDING |
+| VINNY | 1118.88 | 1255.82 | -137 | 10 | PENDING |
+| LITTLE BUBS | 974.86 | 1019.28 | -44 | 10 | PENDING |
+| LITTLE JAMES | 851.30 | 973.22 | -122 | 10 | PENDING |
+| MASON | 931.86 | 1024.06 | -92 | 10 | PENDING |
+| DUANE | 902.92 | 980.26 | -77 | 10 | PENDING |
+| BUBBA | 895.08 | 997.08 | -102 | 10 | PENDING |
+| DOM | 924.72 | 1039.30 | -115 | 10 | PENDING |
+| POPPY | 865.30 | 997.86 | -133 | 10 | PENDING |
+| JAMES | 928.04 | 1007.46 | -79 | 10 | PENDING |
+| LITTLE DUANE | 1035.78 | 1159.42 | -124 | 10 | PENDING |
 
 ## Flags
-- JACK: residual -2.50 is not a valid DST points-allowed total for 9 DST games
-- LITTLE JAMES: residual -14.30 is not a valid DST points-allowed total for 10 DST games
-- MASON: residual -35.90 is not a valid DST points-allowed total for 9 DST games
-- DUANE: residual -9.70 is not a valid DST points-allowed total for 10 DST games
-- DOM: residual -11.90 is not a valid DST points-allowed total for 9 DST games
-- LITTLE DUANE: residual -6.20 is not a valid DST points-allowed total for 9 DST games
+- Game log shows 10 games but Weekly Scores has 9 weeks. Week in progress; reconciliation will settle once scores are entered.
