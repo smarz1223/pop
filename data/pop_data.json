@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-11-22 18:36 UTC",
+ "updated": "2026-11-23 22:48 UTC",
  "weeks_entered": 10,
  "reg_season_weeks": 14,
  "playoff_weeks": [
@@ -22,109 +22,107 @@
   "JAMES",
   "LITTLE DUANE"
  ],
- "recon_status": "FAIL",
+ "recon_status": "LIVE",
  "recon": [
   {
    "team": "STEVE",
    "weekly_total": 1111.32,
-   "calculated": 1102.62,
-   "dst_pts_allowed": 9,
-   "dst_games": 10,
-   "check": "FAIL"
+   "calculated": 1182.0,
+   "dst_pts_allowed": -71,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "JACK",
    "weekly_total": 950.28,
-   "calculated": 949.28,
-   "dst_pts_allowed": 1,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1006.18,
+   "dst_pts_allowed": -56,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "VINNY",
    "weekly_total": 1256.82,
-   "calculated": 1255.82,
-   "dst_pts_allowed": 1,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1336.08,
+   "dst_pts_allowed": -79,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "LITTLE BUBS",
    "weekly_total": 1045.28,
-   "calculated": 1019.28,
-   "dst_pts_allowed": 26,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1123.44,
+   "dst_pts_allowed": -78,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "LITTLE JAMES",
    "weekly_total": 981.22,
-   "calculated": 973.22,
-   "dst_pts_allowed": 8,
+   "calculated": 1068.08,
+   "dst_pts_allowed": -87,
    "dst_games": 10,
-   "check": "PASS"
+   "check": "PENDING"
   },
   {
    "team": "MASON",
    "weekly_total": 1029.06,
-   "calculated": 1024.06,
-   "dst_pts_allowed": 5,
+   "calculated": 1110.32,
+   "dst_pts_allowed": -81,
    "dst_games": 10,
-   "check": "PASS"
+   "check": "PENDING"
   },
   {
    "team": "DUANE",
    "weekly_total": 981.26,
-   "calculated": 980.26,
-   "dst_pts_allowed": 1,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1060.2,
+   "dst_pts_allowed": -79,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "BUBBA",
    "weekly_total": 1017.08,
-   "calculated": 1019.88,
-   "dst_pts_allowed": -3,
-   "dst_games": 10,
-   "check": "FAIL"
+   "calculated": 1100.4,
+   "dst_pts_allowed": -83,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "DOM",
    "weekly_total": 1028.3,
-   "calculated": 1039.3,
-   "dst_pts_allowed": -11,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1127.54,
+   "dst_pts_allowed": -99,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "POPPY",
    "weekly_total": 995.86,
-   "calculated": 997.86,
-   "dst_pts_allowed": -2,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1084.06,
+   "dst_pts_allowed": -88,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "JAMES",
    "weekly_total": 1023.86,
-   "calculated": 1015.86,
-   "dst_pts_allowed": 8,
-   "dst_games": 10,
-   "check": "PASS"
+   "calculated": 1120.96,
+   "dst_pts_allowed": -97,
+   "dst_games": 11,
+   "check": "PENDING"
   },
   {
    "team": "LITTLE DUANE",
    "weekly_total": 1192.92,
-   "calculated": 1200.38,
-   "dst_pts_allowed": -7,
-   "dst_games": 10,
-   "check": "FAIL"
+   "calculated": 1280.58,
+   "dst_pts_allowed": -88,
+   "dst_games": 11,
+   "check": "PENDING"
   }
  ],
  "flags": [
-  "STEVE: residual 8.70 is not a valid DST points-allowed total for 10 DST games",
-  "BUBBA: residual -2.80 is not a valid DST points-allowed total for 10 DST games",
-  "LITTLE DUANE: residual -7.46 is not a valid DST points-allowed total for 10 DST games"
+  "Game log shows 11 games but Weekly Scores has 10 weeks. Week in progress; reconciliation will settle once scores are entered."
  ],
  "standings": [
   {
@@ -1802,16 +1800,16 @@
   "Passing": {
    "STEVE": {
     "raw": {
-     "Pass Yds": 2008.0,
-     "Pass TD": 17.0,
-     "Pass INT": 5.0
+     "Pass Yds": 2230.0,
+     "Pass TD": 18.0,
+     "Pass INT": 6.0
     },
     "pts": {
-     "Pass Yds": 80.32,
-     "Pass TD": 68.0,
-     "Pass INT": -5.0
+     "Pass Yds": 89.2,
+     "Pass TD": 72.0,
+     "Pass INT": -6.0
     },
-    "total": 143.32
+    "total": 155.2
    },
    "JACK": {
     "raw": {
@@ -1828,120 +1826,120 @@
    },
    "VINNY": {
     "raw": {
-     "Pass Yds": 2373.0,
-     "Pass TD": 14.0,
-     "Pass INT": 7.0
+     "Pass Yds": 2677.0,
+     "Pass TD": 15.0,
+     "Pass INT": 9.0
     },
     "pts": {
-     "Pass Yds": 94.92,
-     "Pass TD": 56.0,
-     "Pass INT": -7.0
+     "Pass Yds": 107.08,
+     "Pass TD": 60.0,
+     "Pass INT": -9.0
     },
-    "total": 143.92
+    "total": 158.08
    },
    "LITTLE BUBS": {
     "raw": {
-     "Pass Yds": 2507.0,
-     "Pass TD": 22.0,
+     "Pass Yds": 2831.0,
+     "Pass TD": 25.0,
      "Pass INT": 8.0
     },
     "pts": {
-     "Pass Yds": 100.28,
-     "Pass TD": 88.0,
+     "Pass Yds": 113.24,
+     "Pass TD": 100.0,
      "Pass INT": -8.0
     },
-    "total": 180.28
+    "total": 205.24
    },
    "LITTLE JAMES": {
     "raw": {
-     "Pass Yds": 2178.0,
-     "Pass TD": 14.0,
+     "Pass Yds": 2457.0,
+     "Pass TD": 16.0,
      "Pass INT": 4.0
     },
     "pts": {
-     "Pass Yds": 87.12,
-     "Pass TD": 56.0,
+     "Pass Yds": 98.28,
+     "Pass TD": 64.0,
      "Pass INT": -4.0
     },
-    "total": 139.12
+    "total": 158.28
    },
    "MASON": {
     "raw": {
-     "Pass Yds": 2319.0,
-     "Pass TD": 15.0,
-     "Pass INT": 7.0
+     "Pass Yds": 2573.0,
+     "Pass TD": 17.0,
+     "Pass INT": 8.0
     },
     "pts": {
-     "Pass Yds": 92.76,
-     "Pass TD": 60.0,
-     "Pass INT": -7.0
+     "Pass Yds": 102.92,
+     "Pass TD": 68.0,
+     "Pass INT": -8.0
     },
-    "total": 145.76
+    "total": 162.92
    },
    "DUANE": {
     "raw": {
-     "Pass Yds": 2429.0,
-     "Pass TD": 23.0,
-     "Pass INT": 5.0
+     "Pass Yds": 2730.0,
+     "Pass TD": 24.0,
+     "Pass INT": 7.0
     },
     "pts": {
-     "Pass Yds": 97.16,
-     "Pass TD": 92.0,
-     "Pass INT": -5.0
+     "Pass Yds": 109.2,
+     "Pass TD": 96.0,
+     "Pass INT": -7.0
     },
-    "total": 184.16
+    "total": 198.2
    },
    "BUBBA": {
     "raw": {
-     "Pass Yds": 2367.0,
-     "Pass TD": 15.0,
+     "Pass Yds": 2615.0,
+     "Pass TD": 17.0,
      "Pass INT": 11.0
     },
     "pts": {
-     "Pass Yds": 94.68,
-     "Pass TD": 60.0,
+     "Pass Yds": 104.6,
+     "Pass TD": 68.0,
      "Pass INT": -11.0
     },
-    "total": 143.68
+    "total": 161.6
    },
    "DOM": {
     "raw": {
-     "Pass Yds": 2600.0,
-     "Pass TD": 15.0,
-     "Pass INT": 11.0
+     "Pass Yds": 2781.0,
+     "Pass TD": 17.0,
+     "Pass INT": 12.0
     },
     "pts": {
-     "Pass Yds": 104.0,
-     "Pass TD": 60.0,
-     "Pass INT": -11.0
+     "Pass Yds": 111.24,
+     "Pass TD": 68.0,
+     "Pass INT": -12.0
     },
-    "total": 153.0
+    "total": 167.24
    },
    "POPPY": {
     "raw": {
-     "Pass Yds": 2354.0,
-     "Pass TD": 19.0,
+     "Pass Yds": 2609.0,
+     "Pass TD": 22.0,
      "Pass INT": 4.0
     },
     "pts": {
-     "Pass Yds": 94.16,
-     "Pass TD": 76.0,
+     "Pass Yds": 104.36,
+     "Pass TD": 88.0,
      "Pass INT": -4.0
     },
-    "total": 166.16
+    "total": 188.36
    },
    "JAMES": {
     "raw": {
-     "Pass Yds": 2724.0,
-     "Pass TD": 21.0,
+     "Pass Yds": 3049.0,
+     "Pass TD": 25.0,
      "Pass INT": 6.0
     },
     "pts": {
-     "Pass Yds": 108.96,
-     "Pass TD": 84.0,
+     "Pass Yds": 121.96,
+     "Pass TD": 100.0,
      "Pass INT": -6.0
     },
-    "total": 186.96
+    "total": 215.96
    },
    "LITTLE DUANE": {
     "raw": {
@@ -1960,293 +1958,293 @@
   "Rushing": {
    "STEVE": {
     "raw": {
-     "Rush Yds": 1707.0,
-     "Rush TD": 9.0
+     "Rush Yds": 1929.0,
+     "Rush TD": 10.0
     },
     "pts": {
-     "Rush Yds": 170.7,
-     "Rush TD": 54.0
+     "Rush Yds": 192.9,
+     "Rush TD": 60.0
     },
-    "total": 224.7
+    "total": 252.9
    },
    "JACK": {
     "raw": {
-     "Rush Yds": 570.0,
+     "Rush Yds": 575.0,
      "Rush TD": 5.0
     },
     "pts": {
-     "Rush Yds": 57.0,
+     "Rush Yds": 57.5,
      "Rush TD": 30.0
     },
-    "total": 87.0
+    "total": 87.5
    },
    "VINNY": {
     "raw": {
-     "Rush Yds": 2234.0,
-     "Rush TD": 28.0
+     "Rush Yds": 2368.0,
+     "Rush TD": 30.0
     },
     "pts": {
-     "Rush Yds": 223.4,
-     "Rush TD": 168.0
+     "Rush Yds": 236.8,
+     "Rush TD": 180.0
     },
-    "total": 391.4
+    "total": 416.8
    },
    "LITTLE BUBS": {
     "raw": {
-     "Rush Yds": 2086.0,
-     "Rush TD": 16.0
+     "Rush Yds": 2250.0,
+     "Rush TD": 17.0
     },
     "pts": {
-     "Rush Yds": 208.6,
-     "Rush TD": 96.0
+     "Rush Yds": 225.0,
+     "Rush TD": 102.0
     },
-    "total": 304.6
+    "total": 327.0
    },
    "LITTLE JAMES": {
     "raw": {
-     "Rush Yds": 1854.0,
-     "Rush TD": 21.0
+     "Rush Yds": 2048.0,
+     "Rush TD": 22.0
     },
     "pts": {
-     "Rush Yds": 185.4,
-     "Rush TD": 126.0
+     "Rush Yds": 204.8,
+     "Rush TD": 132.0
     },
-    "total": 311.4
+    "total": 336.8
    },
    "MASON": {
     "raw": {
-     "Rush Yds": 1253.0,
-     "Rush TD": 11.0
-    },
-    "pts": {
-     "Rush Yds": 125.3,
-     "Rush TD": 66.0
-    },
-    "total": 191.3
-   },
-   "DUANE": {
-    "raw": {
-     "Rush Yds": 1636.0,
-     "Rush TD": 12.0
-    },
-    "pts": {
-     "Rush Yds": 163.6,
-     "Rush TD": 72.0
-    },
-    "total": 235.6
-   },
-   "BUBBA": {
-    "raw": {
-     "Rush Yds": 2194.0,
-     "Rush TD": 21.0
-    },
-    "pts": {
-     "Rush Yds": 219.4,
-     "Rush TD": 126.0
-    },
-    "total": 345.4
-   },
-   "DOM": {
-    "raw": {
-     "Rush Yds": 1418.0,
-     "Rush TD": 11.0
-    },
-    "pts": {
-     "Rush Yds": 141.8,
-     "Rush TD": 66.0
-    },
-    "total": 207.8
-   },
-   "POPPY": {
-    "raw": {
-     "Rush Yds": 2033.0,
+     "Rush Yds": 1489.0,
      "Rush TD": 14.0
     },
     "pts": {
-     "Rush Yds": 203.3,
+     "Rush Yds": 148.9,
      "Rush TD": 84.0
     },
-    "total": 287.3
+    "total": 232.9
+   },
+   "DUANE": {
+    "raw": {
+     "Rush Yds": 1741.0,
+     "Rush TD": 14.0
+    },
+    "pts": {
+     "Rush Yds": 174.1,
+     "Rush TD": 84.0
+    },
+    "total": 258.1
+   },
+   "BUBBA": {
+    "raw": {
+     "Rush Yds": 2203.0,
+     "Rush TD": 22.0
+    },
+    "pts": {
+     "Rush Yds": 220.3,
+     "Rush TD": 132.0
+    },
+    "total": 352.3
+   },
+   "DOM": {
+    "raw": {
+     "Rush Yds": 1591.0,
+     "Rush TD": 11.0
+    },
+    "pts": {
+     "Rush Yds": 159.1,
+     "Rush TD": 66.0
+    },
+    "total": 225.1
+   },
+   "POPPY": {
+    "raw": {
+     "Rush Yds": 2149.0,
+     "Rush TD": 15.0
+    },
+    "pts": {
+     "Rush Yds": 214.9,
+     "Rush TD": 90.0
+    },
+    "total": 304.9
    },
    "JAMES": {
     "raw": {
-     "Rush Yds": 1089.0,
-     "Rush TD": 12.0
+     "Rush Yds": 1173.0,
+     "Rush TD": 14.0
     },
     "pts": {
-     "Rush Yds": 108.9,
-     "Rush TD": 72.0
+     "Rush Yds": 117.3,
+     "Rush TD": 84.0
     },
-    "total": 180.9
+    "total": 201.3
    },
    "LITTLE DUANE": {
     "raw": {
-     "Rush Yds": 2277.0,
-     "Rush TD": 29.0
+     "Rush Yds": 2481.0,
+     "Rush TD": 31.0
     },
     "pts": {
-     "Rush Yds": 227.7,
-     "Rush TD": 174.0
+     "Rush Yds": 248.1,
+     "Rush TD": 186.0
     },
-    "total": 401.7
+    "total": 434.1
    }
   },
   "Receiving": {
    "STEVE": {
     "raw": {
-     "Receptions": 263.0,
-     "Rec Yds": 3091.0,
-     "Rec TD": 22.0
+     "Receptions": 282.0,
+     "Rec Yds": 3319.0,
+     "Rec TD": 23.0
     },
     "pts": {
-     "Receptions": 131.5,
-     "Rec Yds": 309.1,
-     "Rec TD": 132.0
+     "Receptions": 141.0,
+     "Rec Yds": 331.9,
+     "Rec TD": 138.0
     },
-    "total": 572.6
+    "total": 610.9
    },
    "JACK": {
     "raw": {
-     "Receptions": 246.0,
-     "Rec Yds": 2782.0,
-     "Rec TD": 21.0
-    },
-    "pts": {
-     "Receptions": 123.0,
-     "Rec Yds": 278.2,
-     "Rec TD": 126.0
-    },
-    "total": 527.2
-   },
-   "VINNY": {
-    "raw": {
-     "Receptions": 250.0,
-     "Rec Yds": 3235.0,
+     "Receptions": 257.0,
+     "Rec Yds": 2941.0,
      "Rec TD": 24.0
     },
     "pts": {
-     "Receptions": 125.0,
-     "Rec Yds": 323.5,
+     "Receptions": 128.5,
+     "Rec Yds": 294.1,
      "Rec TD": 144.0
     },
-    "total": 592.5
+    "total": 566.6
+   },
+   "VINNY": {
+    "raw": {
+     "Receptions": 270.0,
+     "Rec Yds": 3412.0,
+     "Rec TD": 24.0
+    },
+    "pts": {
+     "Receptions": 135.0,
+     "Rec Yds": 341.2,
+     "Rec TD": 144.0
+    },
+    "total": 620.2
    },
    "LITTLE BUBS": {
     "raw": {
-     "Receptions": 210.0,
-     "Rec Yds": 2414.0,
-     "Rec TD": 9.0
+     "Receptions": 230.0,
+     "Rec Yds": 2622.0,
+     "Rec TD": 12.0
     },
     "pts": {
-     "Receptions": 105.0,
-     "Rec Yds": 241.4,
-     "Rec TD": 54.0
+     "Receptions": 115.0,
+     "Rec Yds": 262.2,
+     "Rec TD": 72.0
     },
-    "total": 400.4
+    "total": 449.2
    },
    "LITTLE JAMES": {
     "raw": {
-     "Receptions": 181.0,
-     "Rec Yds": 2022.0,
-     "Rec TD": 13.0
+     "Receptions": 192.0,
+     "Rec Yds": 2170.0,
+     "Rec TD": 15.0
     },
     "pts": {
-     "Receptions": 90.5,
-     "Rec Yds": 202.2,
-     "Rec TD": 78.0
+     "Receptions": 96.0,
+     "Rec Yds": 217.0,
+     "Rec TD": 90.0
     },
-    "total": 370.7
+    "total": 403.0
    },
    "MASON": {
     "raw": {
-     "Receptions": 267.0,
-     "Rec Yds": 3025.0,
+     "Receptions": 286.0,
+     "Rec Yds": 3145.0,
      "Rec TD": 19.0
     },
     "pts": {
-     "Receptions": 133.5,
-     "Rec Yds": 302.5,
+     "Receptions": 143.0,
+     "Rec Yds": 314.5,
      "Rec TD": 114.0
     },
-    "total": 550.0
+    "total": 571.5
    },
    "DUANE": {
     "raw": {
-     "Receptions": 250.0,
-     "Rec Yds": 2405.0,
-     "Rec TD": 15.0
-    },
-    "pts": {
-     "Receptions": 125.0,
-     "Rec Yds": 240.5,
-     "Rec TD": 90.0
-    },
-    "total": 455.5
-   },
-   "BUBBA": {
-    "raw": {
-     "Receptions": 213.0,
-     "Rec Yds": 2013.0,
-     "Rec TD": 15.0
-    },
-    "pts": {
-     "Receptions": 106.5,
-     "Rec Yds": 201.3,
-     "Rec TD": 90.0
-    },
-    "total": 397.8
-   },
-   "DOM": {
-    "raw": {
-     "Receptions": 260.0,
-     "Rec Yds": 2945.0,
+     "Receptions": 266.0,
+     "Rec Yds": 2629.0,
      "Rec TD": 16.0
     },
     "pts": {
-     "Receptions": 130.0,
-     "Rec Yds": 294.5,
+     "Receptions": 133.0,
+     "Rec Yds": 262.9,
      "Rec TD": 96.0
     },
-    "total": 520.5
+    "total": 491.9
    },
-   "POPPY": {
+   "BUBBA": {
     "raw": {
-     "Receptions": 225.0,
-     "Rec Yds": 2559.0,
-     "Rec TD": 13.0
-    },
-    "pts": {
-     "Receptions": 112.5,
-     "Rec Yds": 255.9,
-     "Rec TD": 78.0
-    },
-    "total": 446.4
-   },
-   "JAMES": {
-    "raw": {
-     "Receptions": 234.0,
-     "Rec Yds": 2750.0,
+     "Receptions": 229.0,
+     "Rec Yds": 2210.0,
      "Rec TD": 17.0
     },
     "pts": {
-     "Receptions": 117.0,
-     "Rec Yds": 275.0,
+     "Receptions": 114.5,
+     "Rec Yds": 221.0,
      "Rec TD": 102.0
     },
-    "total": 494.0
+    "total": 437.5
    },
-   "LITTLE DUANE": {
+   "DOM": {
     "raw": {
-     "Receptions": 233.0,
-     "Rec Yds": 2407.0,
+     "Receptions": 279.0,
+     "Rec Yds": 3147.0,
      "Rec TD": 18.0
     },
     "pts": {
-     "Receptions": 116.5,
-     "Rec Yds": 240.7,
+     "Receptions": 139.5,
+     "Rec Yds": 314.7,
      "Rec TD": 108.0
     },
-    "total": 465.2
+    "total": 562.2
+   },
+   "POPPY": {
+    "raw": {
+     "Receptions": 243.0,
+     "Rec Yds": 2743.0,
+     "Rec TD": 13.0
+    },
+    "pts": {
+     "Receptions": 121.5,
+     "Rec Yds": 274.3,
+     "Rec TD": 78.0
+    },
+    "total": 473.8
+   },
+   "JAMES": {
+    "raw": {
+     "Receptions": 250.0,
+     "Rec Yds": 2977.0,
+     "Rec TD": 19.0
+    },
+    "pts": {
+     "Receptions": 125.0,
+     "Rec Yds": 297.7,
+     "Rec TD": 114.0
+    },
+    "total": 536.7
+   },
+   "LITTLE DUANE": {
+    "raw": {
+     "Receptions": 250.0,
+     "Rec Yds": 2560.0,
+     "Rec TD": 20.0
+    },
+    "pts": {
+     "Receptions": 125.0,
+     "Rec Yds": 256.0,
+     "Rec TD": 120.0
+    },
+    "total": 501.0
    }
   },
   "Misc Offense": {
@@ -2319,14 +2317,14 @@
     "raw": {
      "Return TD": 0.0,
      "2-Pt Conv": 0.0,
-     "Fumbles Lost": 6.0
+     "Fumbles Lost": 7.0
     },
     "pts": {
      "Return TD": 0.0,
      "2-Pt Conv": 0.0,
-     "Fumbles Lost": -12.0
+     "Fumbles Lost": -14.0
     },
-    "total": -12.0
+    "total": -14.0
    },
    "DUANE": {
     "raw": {
@@ -2345,27 +2343,27 @@
     "raw": {
      "Return TD": 0.0,
      "2-Pt Conv": 2.0,
-     "Fumbles Lost": 6.0
+     "Fumbles Lost": 7.0
     },
     "pts": {
      "Return TD": 0.0,
      "2-Pt Conv": 4.0,
-     "Fumbles Lost": -12.0
+     "Fumbles Lost": -14.0
     },
-    "total": -8.0
+    "total": -10.0
    },
    "DOM": {
     "raw": {
      "Return TD": 0.0,
      "2-Pt Conv": 1.0,
-     "Fumbles Lost": 1.0
+     "Fumbles Lost": 2.0
     },
     "pts": {
      "Return TD": 0.0,
      "2-Pt Conv": 2.0,
-     "Fumbles Lost": -2.0
+     "Fumbles Lost": -4.0
     },
-    "total": 0.0
+    "total": -2.0
    },
    "POPPY": {
     "raw": {
@@ -2396,13 +2394,13 @@
    "LITTLE DUANE": {
     "raw": {
      "Return TD": 0.0,
-     "2-Pt Conv": 3.0,
-     "Fumbles Lost": 6.0
+     "2-Pt Conv": 4.0,
+     "Fumbles Lost": 7.0
     },
     "pts": {
      "Return TD": 0.0,
-     "2-Pt Conv": 6.0,
-     "Fumbles Lost": -12.0
+     "2-Pt Conv": 8.0,
+     "Fumbles Lost": -14.0
     },
     "total": -6.0
    }
@@ -2432,38 +2430,38 @@
      "FG 0-19": 0.0,
      "FG 20-29": 4.0,
      "FG 30-39": 7.0,
-     "FG 40-49": 3.0,
+     "FG 40-49": 5.0,
      "FG 50+": 0.0,
-     "PAT": 23.0
+     "PAT": 27.0
     },
     "pts": {
      "FG 0-19": 0.0,
      "FG 20-29": 12.0,
      "FG 30-39": 21.0,
-     "FG 40-49": 12.0,
+     "FG 40-49": 20.0,
      "FG 50+": 0.0,
-     "PAT": 23.0
+     "PAT": 27.0
     },
-    "total": 68.0
+    "total": 80.0
    },
    "VINNY": {
     "raw": {
      "FG 0-19": 0.0,
      "FG 20-29": 6.0,
      "FG 30-39": 4.0,
-     "FG 40-49": 4.0,
+     "FG 40-49": 5.0,
      "FG 50+": 5.0,
-     "PAT": 25.0
+     "PAT": 31.0
     },
     "pts": {
      "FG 0-19": 0.0,
      "FG 20-29": 18.0,
      "FG 30-39": 12.0,
-     "FG 40-49": 16.0,
+     "FG 40-49": 20.0,
      "FG 50+": 25.0,
-     "PAT": 25.0
+     "PAT": 31.0
     },
-    "total": 96.0
+    "total": 106.0
    },
    "LITTLE BUBS": {
     "raw": {
@@ -2472,7 +2470,7 @@
      "FG 30-39": 3.0,
      "FG 40-49": 2.0,
      "FG 50+": 5.0,
-     "PAT": 28.0
+     "PAT": 33.0
     },
     "pts": {
      "FG 0-19": 0.0,
@@ -2480,47 +2478,47 @@
      "FG 30-39": 9.0,
      "FG 40-49": 8.0,
      "FG 50+": 25.0,
-     "PAT": 28.0
+     "PAT": 33.0
     },
-    "total": 85.0
+    "total": 90.0
    },
    "LITTLE JAMES": {
     "raw": {
      "FG 0-19": 0.0,
-     "FG 20-29": 5.0,
+     "FG 20-29": 6.0,
      "FG 30-39": 8.0,
-     "FG 40-49": 4.0,
-     "FG 50+": 5.0,
-     "PAT": 22.0
+     "FG 40-49": 6.0,
+     "FG 50+": 6.0,
+     "PAT": 24.0
     },
     "pts": {
      "FG 0-19": 0.0,
-     "FG 20-29": 15.0,
+     "FG 20-29": 18.0,
      "FG 30-39": 24.0,
-     "FG 40-49": 16.0,
-     "FG 50+": 25.0,
-     "PAT": 22.0
+     "FG 40-49": 24.0,
+     "FG 50+": 30.0,
+     "PAT": 24.0
     },
-    "total": 102.0
+    "total": 120.0
    },
    "MASON": {
     "raw": {
      "FG 0-19": 0.0,
      "FG 20-29": 5.0,
-     "FG 30-39": 5.0,
+     "FG 30-39": 6.0,
      "FG 40-49": 5.0,
      "FG 50+": 6.0,
-     "PAT": 21.0
+     "PAT": 26.0
     },
     "pts": {
      "FG 0-19": 0.0,
      "FG 20-29": 15.0,
-     "FG 30-39": 15.0,
+     "FG 30-39": 18.0,
      "FG 40-49": 20.0,
      "FG 50+": 30.0,
-     "PAT": 21.0
+     "PAT": 26.0
     },
-    "total": 101.0
+    "total": 109.0
    },
    "DUANE": {
     "raw": {
@@ -2546,57 +2544,57 @@
      "FG 0-19": 0.0,
      "FG 20-29": 6.0,
      "FG 30-39": 4.0,
-     "FG 40-49": 7.0,
+     "FG 40-49": 8.0,
      "FG 50+": 3.0,
-     "PAT": 23.0
+     "PAT": 24.0
     },
     "pts": {
      "FG 0-19": 0.0,
      "FG 20-29": 18.0,
      "FG 30-39": 12.0,
-     "FG 40-49": 28.0,
+     "FG 40-49": 32.0,
      "FG 50+": 15.0,
-     "PAT": 23.0
+     "PAT": 24.0
     },
-    "total": 96.0
+    "total": 101.0
    },
    "DOM": {
     "raw": {
      "FG 0-19": 0.0,
-     "FG 20-29": 2.0,
-     "FG 30-39": 4.0,
-     "FG 40-49": 8.0,
+     "FG 20-29": 3.0,
+     "FG 30-39": 6.0,
+     "FG 40-49": 9.0,
      "FG 50+": 4.0,
      "PAT": 29.0
     },
     "pts": {
      "FG 0-19": 0.0,
-     "FG 20-29": 6.0,
-     "FG 30-39": 12.0,
-     "FG 40-49": 32.0,
+     "FG 20-29": 9.0,
+     "FG 30-39": 18.0,
+     "FG 40-49": 36.0,
      "FG 50+": 20.0,
      "PAT": 29.0
     },
-    "total": 99.0
+    "total": 112.0
    },
    "POPPY": {
     "raw": {
      "FG 0-19": 0.0,
      "FG 20-29": 3.0,
-     "FG 30-39": 5.0,
-     "FG 40-49": 5.0,
+     "FG 30-39": 6.0,
+     "FG 40-49": 6.0,
      "FG 50+": 2.0,
-     "PAT": 19.0
+     "PAT": 20.0
     },
     "pts": {
      "FG 0-19": 0.0,
      "FG 20-29": 9.0,
-     "FG 30-39": 15.0,
-     "FG 40-49": 20.0,
+     "FG 30-39": 18.0,
+     "FG 40-49": 24.0,
      "FG 50+": 10.0,
-     "PAT": 19.0
+     "PAT": 20.0
     },
-    "total": 73.0
+    "total": 81.0
    },
    "JAMES": {
     "raw": {
@@ -2604,18 +2602,18 @@
      "FG 20-29": 7.0,
      "FG 30-39": 4.0,
      "FG 40-49": 7.0,
-     "FG 50+": 1.0,
-     "PAT": 31.0
+     "FG 50+": 2.0,
+     "PAT": 35.0
     },
     "pts": {
      "FG 0-19": 0.0,
      "FG 20-29": 21.0,
      "FG 30-39": 12.0,
      "FG 40-49": 28.0,
-     "FG 50+": 5.0,
-     "PAT": 31.0
+     "FG 50+": 10.0,
+     "PAT": 35.0
     },
-    "total": 97.0
+    "total": 106.0
    },
    "LITTLE DUANE": {
     "raw": {
@@ -2640,7 +2638,7 @@
   "Defense": {
    "STEVE": {
     "raw": {
-     "Sacks": 34.0,
+     "Sacks": 35.0,
      "Def INT": 10.0,
      "Fum Rec": 6.0,
      "Def TD": 0.0,
@@ -2649,43 +2647,21 @@
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 34.0,
+     "Sacks": 35.0,
      "Def INT": 20.0,
      "Fum Rec": 12.0,
      "Def TD": 0.0,
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 9.0
+     "DST Pts Allowed": -71.0
     },
-    "total": 75.0
+    "total": -4.0
    },
    "JACK": {
     "raw": {
-     "Sacks": 27.0,
+     "Sacks": 30.0,
      "Def INT": 7.0,
-     "Fum Rec": 3.0,
-     "Def TD": 1.0,
-     "Safety": 0.0,
-     "Blocked Kick": 0.0,
-     "Def Return TD": 0.0
-    },
-    "pts": {
-     "Sacks": 27.0,
-     "Def INT": 14.0,
-     "Fum Rec": 6.0,
-     "Def TD": 6.0,
-     "Safety": 0.0,
-     "Blocked Kick": 0.0,
-     "Def Return TD": 0.0,
-     "DST Pts Allowed": 1.0
-    },
-    "total": 54.0
-   },
-   "VINNY": {
-    "raw": {
-     "Sacks": 14.0,
-     "Def INT": 8.0,
      "Fum Rec": 4.0,
      "Def TD": 1.0,
      "Safety": 0.0,
@@ -2693,20 +2669,42 @@
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 14.0,
-     "Def INT": 16.0,
+     "Sacks": 30.0,
+     "Def INT": 14.0,
      "Fum Rec": 8.0,
      "Def TD": 6.0,
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 1.0
+     "DST Pts Allowed": -56.0
     },
-    "total": 45.0
+    "total": 2.0
+   },
+   "VINNY": {
+    "raw": {
+     "Sacks": 15.0,
+     "Def INT": 8.0,
+     "Fum Rec": 5.0,
+     "Def TD": 1.0,
+     "Safety": 0.0,
+     "Blocked Kick": 0.0,
+     "Def Return TD": 0.0
+    },
+    "pts": {
+     "Sacks": 15.0,
+     "Def INT": 16.0,
+     "Fum Rec": 10.0,
+     "Def TD": 6.0,
+     "Safety": 0.0,
+     "Blocked Kick": 0.0,
+     "Def Return TD": 0.0,
+     "DST Pts Allowed": -79.0
+    },
+    "total": -32.0
    },
    "LITTLE BUBS": {
     "raw": {
-     "Sacks": 27.0,
+     "Sacks": 30.0,
      "Def INT": 8.0,
      "Fum Rec": 5.0,
      "Def TD": 0.0,
@@ -2715,16 +2713,16 @@
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 27.0,
+     "Sacks": 30.0,
      "Def INT": 16.0,
      "Fum Rec": 10.0,
      "Def TD": 0.0,
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 26.0
+     "DST Pts Allowed": -78.0
     },
-    "total": 79.0
+    "total": -22.0
    },
    "LITTLE JAMES": {
     "raw": {
@@ -2744,9 +2742,9 @@
      "Safety": 0.0,
      "Blocked Kick": 2.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 8.0
+     "DST Pts Allowed": -87.0
     },
-    "total": 62.0
+    "total": -33.0
    },
    "MASON": {
     "raw": {
@@ -2766,14 +2764,14 @@
      "Safety": 2.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 5.0
+     "DST Pts Allowed": -81.0
     },
-    "total": 53.0
+    "total": -33.0
    },
    "DUANE": {
     "raw": {
-     "Sacks": 25.0,
-     "Def INT": 6.0,
+     "Sacks": 28.0,
+     "Def INT": 8.0,
      "Fum Rec": 5.0,
      "Def TD": 0.0,
      "Safety": 0.0,
@@ -2781,42 +2779,42 @@
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 25.0,
-     "Def INT": 12.0,
+     "Sacks": 28.0,
+     "Def INT": 16.0,
      "Fum Rec": 10.0,
      "Def TD": 0.0,
      "Safety": 0.0,
      "Blocked Kick": 2.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 1.0
+     "DST Pts Allowed": -79.0
     },
-    "total": 50.0
+    "total": -23.0
    },
    "BUBBA": {
     "raw": {
-     "Sacks": 21.0,
-     "Def INT": 9.0,
+     "Sacks": 26.0,
+     "Def INT": 10.0,
      "Fum Rec": 3.0,
-     "Def TD": 0.0,
+     "Def TD": 1.0,
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 21.0,
-     "Def INT": 18.0,
+     "Sacks": 26.0,
+     "Def INT": 20.0,
      "Fum Rec": 6.0,
-     "Def TD": 0.0,
+     "Def TD": 6.0,
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -3.0
+     "DST Pts Allowed": -83.0
     },
-    "total": 42.0
+    "total": -25.0
    },
    "DOM": {
     "raw": {
-     "Sacks": 37.0,
+     "Sacks": 41.0,
      "Def INT": 7.0,
      "Fum Rec": 4.0,
      "Def TD": 0.0,
@@ -2825,43 +2823,21 @@
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 37.0,
+     "Sacks": 41.0,
      "Def INT": 14.0,
      "Fum Rec": 8.0,
      "Def TD": 0.0,
      "Safety": 0.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -11.0
+     "DST Pts Allowed": -99.0
     },
-    "total": 48.0
+    "total": -36.0
    },
    "POPPY": {
     "raw": {
-     "Sacks": 19.0,
-     "Def INT": 4.0,
-     "Fum Rec": 2.0,
-     "Def TD": 0.0,
-     "Safety": 0.0,
-     "Blocked Kick": 1.0,
-     "Def Return TD": 0.0
-    },
-    "pts": {
-     "Sacks": 19.0,
-     "Def INT": 8.0,
-     "Fum Rec": 4.0,
-     "Def TD": 0.0,
-     "Safety": 0.0,
-     "Blocked Kick": 2.0,
-     "Def Return TD": 0.0,
-     "DST Pts Allowed": -2.0
-    },
-    "total": 31.0
-   },
-   "JAMES": {
-    "raw": {
-     "Sacks": 27.0,
-     "Def INT": 8.0,
+     "Sacks": 20.0,
+     "Def INT": 5.0,
      "Fum Rec": 3.0,
      "Def TD": 1.0,
      "Safety": 0.0,
@@ -2869,140 +2845,253 @@
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 27.0,
-     "Def INT": 16.0,
+     "Sacks": 20.0,
+     "Def INT": 10.0,
      "Fum Rec": 6.0,
      "Def TD": 6.0,
      "Safety": 0.0,
      "Blocked Kick": 2.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": 8.0
+     "DST Pts Allowed": -88.0
     },
-    "total": 65.0
+    "total": -44.0
+   },
+   "JAMES": {
+    "raw": {
+     "Sacks": 29.0,
+     "Def INT": 9.0,
+     "Fum Rec": 3.0,
+     "Def TD": 1.0,
+     "Safety": 0.0,
+     "Blocked Kick": 1.0,
+     "Def Return TD": 0.0
+    },
+    "pts": {
+     "Sacks": 29.0,
+     "Def INT": 18.0,
+     "Fum Rec": 6.0,
+     "Def TD": 6.0,
+     "Safety": 0.0,
+     "Blocked Kick": 2.0,
+     "Def Return TD": 0.0,
+     "DST Pts Allowed": -97.0
+    },
+    "total": -36.0
    },
    "LITTLE DUANE": {
     "raw": {
-     "Sacks": 31.0,
-     "Def INT": 10.0,
-     "Fum Rec": 6.0,
+     "Sacks": 37.0,
+     "Def INT": 11.0,
+     "Fum Rec": 7.0,
      "Def TD": 2.0,
-     "Safety": 0.0,
+     "Safety": 1.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0
     },
     "pts": {
-     "Sacks": 31.0,
-     "Def INT": 20.0,
-     "Fum Rec": 12.0,
+     "Sacks": 37.0,
+     "Def INT": 22.0,
+     "Fum Rec": 14.0,
      "Def TD": 12.0,
-     "Safety": 0.0,
+     "Safety": 2.0,
      "Blocked Kick": 0.0,
      "Def Return TD": 0.0,
-     "DST Pts Allowed": -7.0
+     "DST Pts Allowed": -88.0
     },
-    "total": 68.0
+    "total": -1.0
    }
   }
  },
  "positions": {
   "STEVE": {
-   "QB": 170.62,
-   "RB": 348.0,
-   "WR": 359.0,
-   "TE": 53.0,
+   "QB": 185.9,
+   "RB": 395.7,
+   "WR": 365.9,
+   "TE": 61.5,
    "K": 106.0,
-   "DEF": 75.0
+   "DEF": -4.0
   },
   "JACK": {
    "QB": 242.78,
-   "RB": 124.3,
-   "WR": 340.4,
-   "TE": 120.8,
-   "K": 68.0,
-   "DEF": 54.0
+   "RB": 125.8,
+   "WR": 361.9,
+   "TE": 137.7,
+   "K": 80.0,
+   "DEF": 2.0
   },
   "VINNY": {
-   "QB": 243.42,
-   "RB": 424.2,
-   "WR": 332.5,
-   "TE": 115.7,
-   "K": 96.0,
-   "DEF": 45.0
+   "QB": 257.58,
+   "RB": 457.2,
+   "WR": 349.1,
+   "TE": 119.2,
+   "K": 106.0,
+   "DEF": -32.0
   },
   "LITTLE BUBS": {
-   "QB": 214.18,
-   "RB": 367.3,
-   "WR": 231.8,
-   "TE": 68.0,
-   "K": 85.0,
-   "DEF": 79.0
+   "QB": 239.14,
+   "RB": 401.5,
+   "WR": 258.4,
+   "TE": 78.4,
+   "K": 90.0,
+   "DEF": -22.0
   },
   "LITTLE JAMES": {
-   "QB": 165.22,
-   "RB": 385.7,
-   "WR": 153.8,
-   "TE": 112.5,
-   "K": 102.0,
-   "DEF": 62.0
+   "QB": 185.58,
+   "RB": 412.2,
+   "WR": 161.4,
+   "TE": 134.9,
+   "K": 120.0,
+   "DEF": -33.0
   },
   "MASON": {
-   "QB": 159.02,
-   "RB": 213.9,
-   "WR": 369.64,
-   "TE": 132.5,
-   "K": 101.0,
-   "DEF": 53.0
+   "QB": 175.98,
+   "RB": 260.9,
+   "WR": 373.64,
+   "TE": 142.8,
+   "K": 109.0,
+   "DEF": -33.0
   },
   "DUANE": {
-   "QB": 186.0,
-   "RB": 266.5,
-   "WR": 312.56,
-   "TE": 98.2,
+   "QB": 200.74,
+   "RB": 294.8,
+   "WR": 334.76,
+   "TE": 105.9,
    "K": 68.0,
-   "DEF": 50.0
+   "DEF": -23.0
   },
   "BUBBA": {
-   "QB": 170.38,
+   "QB": 192.6,
    "RB": 442.7,
-   "WR": 191.0,
-   "TE": 74.8,
-   "K": 96.0,
-   "DEF": 42.0
+   "WR": 230.4,
+   "TE": 75.7,
+   "K": 101.0,
+   "DEF": -25.0
   },
   "DOM": {
-   "QB": 192.0,
-   "RB": 245.2,
-   "WR": 365.0,
-   "TE": 79.1,
-   "K": 99.0,
-   "DEF": 48.0
+   "QB": 207.34,
+   "RB": 271.6,
+   "WR": 390.2,
+   "TE": 83.4,
+   "K": 112.0,
+   "DEF": -36.0
   },
   "POPPY": {
-   "QB": 204.76,
-   "RB": 293.5,
-   "WR": 314.5,
+   "QB": 226.96,
+   "RB": 309.7,
+   "WR": 343.3,
    "TE": 79.1,
-   "K": 73.0,
-   "DEF": 31.0
+   "K": 81.0,
+   "DEF": -44.0
   },
   "JAMES": {
-   "QB": 207.86,
-   "RB": 220.3,
-   "WR": 377.0,
+   "QB": 243.76,
+   "RB": 233.8,
+   "WR": 419.7,
    "TE": 56.7,
-   "K": 97.0,
-   "DEF": 65.0
+   "K": 106.0,
+   "DEF": -36.0
   },
   "LITTLE DUANE": {
    "QB": 197.78,
-   "RB": 472.4,
-   "WR": 249.1,
-   "TE": 115.1,
+   "RB": 516.1,
+   "WR": 269.6,
+   "TE": 119.1,
    "K": 91.0,
-   "DEF": 68.0
+   "DEF": -1.0
   }
  },
  "players": [
+  {
+   "owner": "VINNY",
+   "player": "Jahmyr Gibbs",
+   "nfl": "DET",
+   "pos": "RB",
+   "gp": 10,
+   "points": 258.7,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 1098.0,
+    "Rush TD": 13.0,
+    "Receptions": 45.0,
+    "Rec Yds": 404.0,
+    "Rec TD": 2.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 2.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 109.8,
+    "Rush TD": 78.0,
+    "Receptions": 22.5,
+    "Rec Yds": 40.4,
+    "Rec TD": 12.0,
+    "Fumbles Lost": -4.0
+   }
+  },
+  {
+   "owner": "JAMES",
+   "player": "Dak Prescott",
+   "nfl": "DAL",
+   "pos": "QB",
+   "gp": 11,
+   "points": 243.76,
+   "stats": {
+    "2-Pt Conv": 3.0,
+    "Pass Yds": 3049.0,
+    "Pass TD": 25.0,
+    "Pass INT": 6.0,
+    "Rush Yds": 118.0,
+    "Rush TD": 2.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 121.96,
+    "Pass TD": 100.0,
+    "Pass INT": -6.0,
+    "Rush Yds": 11.8,
+    "Rush TD": 12.0,
+    "2-Pt Conv": 6.0,
+    "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "VINNY",
+   "player": "Josh Allen",
+   "nfl": "BUF",
+   "pos": "QB",
+   "gp": 10,
+   "points": 243.68,
+   "stats": {
+    "2-Pt Conv": 1.0,
+    "Pass Yds": 2527.0,
+    "Pass TD": 14.0,
+    "Pass INT": 9.0,
+    "Rush Yds": 290.0,
+    "Rush TD": 11.0,
+    "Receptions": 1.0,
+    "Rec Yds": 1.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 101.08,
+    "Pass TD": 56.0,
+    "Pass INT": -9.0,
+    "Rush Yds": 29.0,
+    "Rush TD": 66.0,
+    "Receptions": 0.5,
+    "Rec Yds": 0.1,
+    "2-Pt Conv": 2.0,
+    "Fumbles Lost": -2.0
+   }
+  },
   {
    "owner": "JACK",
    "player": "Joe Burrow",
@@ -3029,67 +3118,6 @@
     "Pass INT": -6.0,
     "Rush Yds": 8.5,
     "Rush TD": 18.0,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "VINNY",
-   "player": "Jahmyr Gibbs",
-   "nfl": "DET",
-   "pos": "RB",
-   "gp": 9,
-   "points": 232.9,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 1000.0,
-    "Rush TD": 11.0,
-    "Receptions": 41.0,
-    "Rec Yds": 384.0,
-    "Rec TD": 2.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 2.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 100.0,
-    "Rush TD": 66.0,
-    "Receptions": 20.5,
-    "Rec Yds": 38.4,
-    "Rec TD": 12.0,
-    "Fumbles Lost": -4.0
-   }
-  },
-  {
-   "owner": "VINNY",
-   "player": "Josh Allen",
-   "nfl": "BUF",
-   "pos": "QB",
-   "gp": 9,
-   "points": 229.52,
-   "stats": {
-    "2-Pt Conv": 1.0,
-    "Pass Yds": 2223.0,
-    "Pass TD": 13.0,
-    "Pass INT": 7.0,
-    "Rush Yds": 290.0,
-    "Rush TD": 11.0,
-    "Receptions": 1.0,
-    "Rec Yds": 1.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 88.92,
-    "Pass TD": 52.0,
-    "Pass INT": -7.0,
-    "Rush Yds": 29.0,
-    "Rush TD": 66.0,
-    "Receptions": 0.5,
-    "Rec Yds": 0.1,
-    "2-Pt Conv": 2.0,
     "Fumbles Lost": -2.0
    }
   },
@@ -3123,41 +3151,11 @@
   },
   {
    "owner": "JAMES",
-   "player": "Dak Prescott",
-   "nfl": "DAL",
-   "pos": "QB",
-   "gp": 10,
-   "points": 207.86,
-   "stats": {
-    "2-Pt Conv": 3.0,
-    "Pass Yds": 2724.0,
-    "Pass TD": 21.0,
-    "Pass INT": 6.0,
-    "Rush Yds": 109.0,
-    "Rush TD": 1.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 108.96,
-    "Pass TD": 84.0,
-    "Pass INT": -6.0,
-    "Rush Yds": 10.9,
-    "Rush TD": 6.0,
-    "2-Pt Conv": 6.0,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "JAMES",
    "player": "CeeDee Lamb",
    "nfl": "DAL",
    "pos": "WR",
-   "gp": 10,
-   "points": 183.5,
+   "gp": 11,
+   "points": 208.2,
    "stats": {
     "2-Pt Conv": 1.0,
     "Pass Yds": 0.0,
@@ -3165,17 +3163,17 @@
     "Pass INT": 0.0,
     "Rush Yds": -6.0,
     "Rush TD": 0.0,
-    "Receptions": 77.0,
-    "Rec Yds": 976.0,
-    "Rec TD": 8.0,
+    "Receptions": 88.0,
+    "Rec Yds": 1108.0,
+    "Rec TD": 9.0,
     "Return TD": 0.0,
     "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
     "Rush Yds": -0.6,
-    "Receptions": 38.5,
-    "Rec Yds": 97.6,
-    "Rec TD": 48.0,
+    "Receptions": 44.0,
+    "Rec Yds": 110.8,
+    "Rec TD": 54.0,
     "2-Pt Conv": 2.0,
     "Fumbles Lost": -2.0
    }
@@ -3209,6 +3207,34 @@
    }
   },
   {
+   "owner": "POPPY",
+   "player": "James Cook III",
+   "nfl": "BUF",
+   "pos": "RB",
+   "gp": 10,
+   "points": 180.3,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 1060.0,
+    "Rush TD": 10.0,
+    "Receptions": 14.0,
+    "Rec Yds": 113.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 2.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 106.0,
+    "Rush TD": 60.0,
+    "Receptions": 7.0,
+    "Rec Yds": 11.3,
+    "Fumbles Lost": -4.0
+   }
+  },
+  {
    "owner": "STEVE",
    "player": "Bijan Robinson",
    "nfl": "ATL",
@@ -3238,30 +3264,172 @@
   },
   {
    "owner": "POPPY",
-   "player": "James Cook III",
-   "nfl": "BUF",
+   "player": "Brock Purdy",
+   "nfl": "SF",
+   "pos": "QB",
+   "gp": 8,
+   "points": 179.58,
+   "stats": {
+    "2-Pt Conv": 2.0,
+    "Pass Yds": 2132.0,
+    "Pass TD": 18.0,
+    "Pass INT": 4.0,
+    "Rush Yds": 163.0,
+    "Rush TD": 1.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 85.28,
+    "Pass TD": 72.0,
+    "Pass INT": -4.0,
+    "Rush Yds": 16.3,
+    "Rush TD": 6.0,
+    "2-Pt Conv": 4.0
+   }
+  },
+  {
+   "owner": "LITTLE BUBS",
+   "player": "Javonte Williams",
+   "nfl": "DAL",
    "pos": "RB",
-   "gp": 9,
-   "points": 164.1,
+   "gp": 11,
+   "points": 177.4,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 971.0,
-    "Rush TD": 9.0,
-    "Receptions": 12.0,
-    "Rec Yds": 110.0,
-    "Rec TD": 0.0,
+    "Rush Yds": 759.0,
+    "Rush TD": 10.0,
+    "Receptions": 28.0,
+    "Rec Yds": 155.0,
+    "Rec TD": 2.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 75.9,
+    "Rush TD": 60.0,
+    "Receptions": 14.0,
+    "Rec Yds": 15.5,
+    "Rec TD": 12.0
+   }
+  },
+  {
+   "owner": "LITTLE DUANE",
+   "player": "Chuba Hubbard",
+   "nfl": "CAR",
+   "pos": "RB",
+   "gp": 9,
+   "points": 169.1,
+   "stats": {
+    "2-Pt Conv": 1.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 782.0,
+    "Rush TD": 8.0,
+    "Receptions": 28.0,
+    "Rec Yds": 209.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 78.2,
+    "Rush TD": 48.0,
+    "Receptions": 14.0,
+    "Rec Yds": 20.9,
+    "Rec TD": 6.0,
+    "2-Pt Conv": 2.0
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "Bucky Irving",
+   "nfl": "TB",
+   "pos": "RB",
+   "gp": 10,
+   "points": 165.6,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 893.0,
+    "Rush TD": 8.0,
+    "Receptions": 25.0,
+    "Rec Yds": 138.0,
+    "Rec TD": 1.0,
     "Return TD": 0.0,
     "Fumbles Lost": 2.0
    },
    "pts_by_cat": {
-    "Rush Yds": 97.1,
-    "Rush TD": 54.0,
-    "Receptions": 6.0,
-    "Rec Yds": 11.0,
+    "Rush Yds": 89.3,
+    "Rush TD": 48.0,
+    "Receptions": 12.5,
+    "Rec Yds": 13.8,
+    "Rec TD": 6.0,
     "Fumbles Lost": -4.0
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "Trevor Lawrence",
+   "nfl": "JAX",
+   "pos": "QB",
+   "gp": 9,
+   "points": 165.36,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 2279.0,
+    "Pass TD": 18.0,
+    "Pass INT": 6.0,
+    "Rush Yds": 102.0,
+    "Rush TD": 0.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 91.16,
+    "Pass TD": 72.0,
+    "Pass INT": -6.0,
+    "Rush Yds": 10.2,
+    "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "LITTLE DUANE",
+   "player": "Amon-Ra St. Brown",
+   "nfl": "DET",
+   "pos": "WR",
+   "gp": 10,
+   "points": 163.1,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 9.0,
+    "Rush TD": 0.0,
+    "Receptions": 70.0,
+    "Rec Yds": 792.0,
+    "Rec TD": 8.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.9,
+    "Receptions": 35.0,
+    "Rec Yds": 79.2,
+    "Rec TD": 48.0
    }
   },
   {
@@ -3288,63 +3456,6 @@
     "Receptions": 32.0,
     "Rec Yds": 87.8,
     "Rec TD": 42.0
-   }
-  },
-  {
-   "owner": "POPPY",
-   "player": "Brock Purdy",
-   "nfl": "SF",
-   "pos": "QB",
-   "gp": 7,
-   "points": 157.38,
-   "stats": {
-    "2-Pt Conv": 2.0,
-    "Pass Yds": 1877.0,
-    "Pass TD": 15.0,
-    "Pass INT": 4.0,
-    "Rush Yds": 163.0,
-    "Rush TD": 1.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 75.08,
-    "Pass TD": 60.0,
-    "Pass INT": -4.0,
-    "Rush Yds": 16.3,
-    "Rush TD": 6.0,
-    "2-Pt Conv": 4.0
-   }
-  },
-  {
-   "owner": "LITTLE BUBS",
-   "player": "Javonte Williams",
-   "nfl": "DAL",
-   "pos": "RB",
-   "gp": 10,
-   "points": 154.8,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 692.0,
-    "Rush TD": 9.0,
-    "Receptions": 25.0,
-    "Rec Yds": 131.0,
-    "Rec TD": 1.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 69.2,
-    "Rush TD": 54.0,
-    "Receptions": 12.5,
-    "Rec Yds": 13.1,
-    "Rec TD": 6.0
    }
   },
   {
@@ -3402,90 +3513,6 @@
     "Pass INT": -7.0,
     "Rush Yds": 14.1,
     "Rush TD": 18.0
-   }
-  },
-  {
-   "owner": "LITTLE DUANE",
-   "player": "Amon-Ra St. Brown",
-   "nfl": "DET",
-   "pos": "WR",
-   "gp": 9,
-   "points": 150.9,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 9.0,
-    "Rush TD": 0.0,
-    "Receptions": 65.0,
-    "Rec Yds": 755.0,
-    "Rec TD": 7.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 0.9,
-    "Receptions": 32.5,
-    "Rec Yds": 75.5,
-    "Rec TD": 42.0
-   }
-  },
-  {
-   "owner": "DUANE",
-   "player": "Trevor Lawrence",
-   "nfl": "JAX",
-   "pos": "QB",
-   "gp": 8,
-   "points": 150.62,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 1978.0,
-    "Pass TD": 17.0,
-    "Pass INT": 4.0,
-    "Rush Yds": 95.0,
-    "Rush TD": 0.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 79.12,
-    "Pass TD": 68.0,
-    "Pass INT": -4.0,
-    "Rush Yds": 9.5,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "DUANE",
-   "player": "Bucky Irving",
-   "nfl": "TB",
-   "pos": "RB",
-   "gp": 9,
-   "points": 148.1,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 825.0,
-    "Rush TD": 7.0,
-    "Receptions": 22.0,
-    "Rec Yds": 106.0,
-    "Rec TD": 1.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 2.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 82.5,
-    "Rush TD": 42.0,
-    "Receptions": 11.0,
-    "Rec Yds": 10.6,
-    "Rec TD": 6.0,
-    "Fumbles Lost": -4.0
    }
   },
   {
@@ -3574,30 +3601,112 @@
    }
   },
   {
-   "owner": "LITTLE DUANE",
-   "player": "Chuba Hubbard",
-   "nfl": "CAR",
+   "owner": "STEVE",
+   "player": "Ashton Jeanty",
+   "nfl": "LV",
    "pos": "RB",
-   "gp": 8,
+   "gp": 10,
+   "points": 143.7,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 441.0,
+    "Rush TD": 1.0,
+    "Receptions": 47.0,
+    "Rec Yds": 461.0,
+    "Rec TD": 4.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 44.1,
+    "Rush TD": 6.0,
+    "Receptions": 23.5,
+    "Rec Yds": 46.1,
+    "Rec TD": 24.0
+   }
+  },
+  {
+   "owner": "BUBBA",
+   "player": "George Pickens",
+   "nfl": "DAL",
+   "pos": "WR",
+   "gp": 10,
    "points": 143.1,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 662.0,
+    "Rush Yds": 6.0,
+    "Rush TD": 0.0,
+    "Receptions": 57.0,
+    "Rec Yds": 780.0,
+    "Rec TD": 6.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.6,
+    "Receptions": 28.5,
+    "Rec Yds": 78.0,
+    "Rec TD": 36.0
+   }
+  },
+  {
+   "owner": "MASON",
+   "player": "Trey McBride",
+   "nfl": "ARI",
+   "pos": "TE",
+   "gp": 11,
+   "points": 142.8,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 4.0,
+    "Rush TD": 0.0,
+    "Receptions": 87.0,
+    "Rec Yds": 689.0,
+    "Rec TD": 5.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.4,
+    "Receptions": 43.5,
+    "Rec Yds": 68.9,
+    "Rec TD": 30.0
+   }
+  },
+  {
+   "owner": "LITTLE JAMES",
+   "player": "Tony Pollard",
+   "nfl": "TEN",
+   "pos": "RB",
+   "gp": 10,
+   "points": 140.4,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 738.0,
     "Rush TD": 6.0,
-    "Receptions": 28.0,
-    "Rec Yds": 209.0,
+    "Receptions": 22.0,
+    "Rec Yds": 136.0,
     "Rec TD": 1.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 66.2,
+    "Rush Yds": 73.8,
     "Rush TD": 36.0,
-    "Receptions": 14.0,
-    "Rec Yds": 20.9,
+    "Receptions": 11.0,
+    "Rec Yds": 13.6,
     "Rec TD": 6.0
    }
   },
@@ -3631,12 +3740,39 @@
    }
   },
   {
-   "owner": "MASON",
-   "player": "Trey McBride",
-   "nfl": "ARI",
-   "pos": "TE",
+   "owner": "VINNY",
+   "player": "Parker Washington",
+   "nfl": "JAX",
+   "pos": "WR",
    "gp": 10,
-   "points": 132.5,
+   "points": 134.1,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 13.0,
+    "Rush TD": 0.0,
+    "Receptions": 44.0,
+    "Rec Yds": 748.0,
+    "Rec TD": 6.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 1.3,
+    "Receptions": 22.0,
+    "Rec Yds": 74.8,
+    "Rec TD": 36.0
+   }
+  },
+  {
+   "owner": "POPPY",
+   "player": "Chris Olave",
+   "nfl": "NO",
+   "pos": "WR",
+   "gp": 10,
+   "points": 132.6,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
@@ -3644,44 +3780,73 @@
     "Pass INT": 0.0,
     "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 78.0,
-    "Rec Yds": 635.0,
-    "Rec TD": 5.0,
+    "Receptions": 68.0,
+    "Rec Yds": 866.0,
+    "Rec TD": 2.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Receptions": 39.0,
-    "Rec Yds": 63.5,
-    "Rec TD": 30.0
+    "Receptions": 34.0,
+    "Rec Yds": 86.6,
+    "Rec TD": 12.0
    }
   },
   {
-   "owner": "LITTLE JAMES",
-   "player": "Tony Pollard",
-   "nfl": "TEN",
-   "pos": "RB",
-   "gp": 9,
-   "points": 129.4,
+   "owner": "DOM",
+   "player": "Caleb Williams",
+   "nfl": "CHI",
+   "pos": "QB",
+   "gp": 7,
+   "points": 130.68,
    "stats": {
     "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 628.0,
-    "Rush TD": 6.0,
-    "Receptions": 22.0,
-    "Rec Yds": 136.0,
-    "Rec TD": 1.0,
+    "Pass Yds": 1727.0,
+    "Pass TD": 10.0,
+    "Pass INT": 6.0,
+    "Rush Yds": 156.0,
+    "Rush TD": 2.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 62.8,
-    "Rush TD": 36.0,
-    "Receptions": 11.0,
-    "Rec Yds": 13.6,
-    "Rec TD": 6.0
+    "Pass Yds": 69.08,
+    "Pass TD": 40.0,
+    "Pass INT": -6.0,
+    "Rush Yds": 15.6,
+    "Rush TD": 12.0
+   }
+  },
+  {
+   "owner": "STEVE",
+   "player": "Tyler Shough",
+   "nfl": "NO",
+   "pos": "QB",
+   "gp": 8,
+   "points": 130.32,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 1733.0,
+    "Pass TD": 12.0,
+    "Pass INT": 6.0,
+    "Rush Yds": 190.0,
+    "Rush TD": 1.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 3.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 69.32,
+    "Pass TD": 48.0,
+    "Pass INT": -6.0,
+    "Rush Yds": 19.0,
+    "Rush TD": 6.0,
+    "Fumbles Lost": -6.0
    }
   },
   {
@@ -3796,93 +3961,41 @@
    }
   },
   {
-   "owner": "BUBBA",
-   "player": "George Pickens",
-   "nfl": "DAL",
-   "pos": "WR",
-   "gp": 9,
-   "points": 122.8,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 50.0,
-    "Rec Yds": 678.0,
-    "Rec TD": 5.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 25.0,
-    "Rec Yds": 67.8,
-    "Rec TD": 30.0
-   }
-  },
-  {
-   "owner": "VINNY",
-   "player": "Parker Washington",
-   "nfl": "JAX",
-   "pos": "WR",
-   "gp": 9,
-   "points": 119.8,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 13.0,
-    "Rush TD": 0.0,
-    "Receptions": 36.0,
-    "Rec Yds": 645.0,
-    "Rec TD": 6.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 1.3,
-    "Receptions": 18.0,
-    "Rec Yds": 64.5,
-    "Rec TD": 36.0
-   }
-  },
-  {
-   "owner": "STEVE",
-   "player": "Ashton Jeanty",
-   "nfl": "LV",
+   "owner": "LITTLE DUANE",
+   "player": "D'Andre Swift",
+   "nfl": "CHI",
    "pos": "RB",
    "gp": 9,
-   "points": 118.3,
+   "points": 125.8,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 362.0,
-    "Rush TD": 1.0,
-    "Receptions": 42.0,
-    "Rec Yds": 371.0,
-    "Rec TD": 3.0,
+    "Rush Yds": 558.0,
+    "Rush TD": 7.0,
+    "Receptions": 24.0,
+    "Rec Yds": 160.0,
+    "Rec TD": 1.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 0.0
+    "Fumbles Lost": 3.0
    },
    "pts_by_cat": {
-    "Rush Yds": 36.2,
-    "Rush TD": 6.0,
-    "Receptions": 21.0,
-    "Rec Yds": 37.1,
-    "Rec TD": 18.0
+    "Rush Yds": 55.8,
+    "Rush TD": 42.0,
+    "Receptions": 12.0,
+    "Rec Yds": 16.0,
+    "Rec TD": 6.0,
+    "Fumbles Lost": -6.0
    }
   },
   {
-   "owner": "POPPY",
-   "player": "Chris Olave",
-   "nfl": "NO",
+   "owner": "DOM",
+   "player": "Malik Nabers",
+   "nfl": "NYG",
    "pos": "WR",
-   "gp": 9,
-   "points": 117.9,
+   "gp": 10,
+   "points": 123.2,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
@@ -3890,16 +4003,71 @@
     "Pass INT": 0.0,
     "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 59.0,
-    "Rec Yds": 764.0,
-    "Rec TD": 2.0,
+    "Receptions": 65.0,
+    "Rec Yds": 747.0,
+    "Rec TD": 3.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 0.0
+    "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
-    "Receptions": 29.5,
-    "Rec Yds": 76.4,
-    "Rec TD": 12.0
+    "Receptions": 32.5,
+    "Rec Yds": 74.7,
+    "Rec TD": 18.0,
+    "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "JACK",
+   "player": "George Kittle",
+   "nfl": "SF",
+   "pos": "TE",
+   "gp": 10,
+   "points": 122.6,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 47.0,
+    "Rec Yds": 591.0,
+    "Rec TD": 7.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Receptions": 23.5,
+    "Rec Yds": 59.1,
+    "Rec TD": 42.0,
+    "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "LITTLE BUBS",
+   "player": "Tetairoa McMillan",
+   "nfl": "CAR",
+   "pos": "WR",
+   "gp": 10,
+   "points": 122.6,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 55.0,
+    "Rec Yds": 731.0,
+    "Rec TD": 4.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Receptions": 27.5,
+    "Rec Yds": 73.1,
+    "Rec TD": 24.0,
+    "Fumbles Lost": -2.0
    }
   },
   {
@@ -3907,113 +4075,28 @@
    "player": "Jaylen Warren",
    "nfl": "PIT",
    "pos": "RB",
-   "gp": 8,
-   "points": 115.8,
+   "gp": 9,
+   "points": 119.7,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 592.0,
+    "Rush Yds": 620.0,
     "Rush TD": 2.0,
-    "Receptions": 27.0,
-    "Rec Yds": 271.0,
+    "Receptions": 29.0,
+    "Rec Yds": 272.0,
     "Rec TD": 1.0,
     "Return TD": 0.0,
     "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
-    "Rush Yds": 59.2,
+    "Rush Yds": 62.0,
     "Rush TD": 12.0,
-    "Receptions": 13.5,
-    "Rec Yds": 27.1,
+    "Receptions": 14.5,
+    "Rec Yds": 27.2,
     "Rec TD": 6.0,
     "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "DOM",
-   "player": "Caleb Williams",
-   "nfl": "CHI",
-   "pos": "QB",
-   "gp": 6,
-   "points": 115.34,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 1546.0,
-    "Pass TD": 8.0,
-    "Pass INT": 5.0,
-    "Rush Yds": 145.0,
-    "Rush TD": 2.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 61.84,
-    "Pass TD": 32.0,
-    "Pass INT": -5.0,
-    "Rush Yds": 14.5,
-    "Rush TD": 12.0
-   }
-  },
-  {
-   "owner": "STEVE",
-   "player": "Tyler Shough",
-   "nfl": "NO",
-   "pos": "QB",
-   "gp": 7,
-   "points": 115.04,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 1511.0,
-    "Pass TD": 11.0,
-    "Pass INT": 5.0,
-    "Rush Yds": 156.0,
-    "Rush TD": 1.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 3.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 60.44,
-    "Pass TD": 44.0,
-    "Pass INT": -5.0,
-    "Rush Yds": 15.6,
-    "Rush TD": 6.0,
-    "Fumbles Lost": -6.0
-   }
-  },
-  {
-   "owner": "LITTLE DUANE",
-   "player": "D'Andre Swift",
-   "nfl": "CHI",
-   "pos": "RB",
-   "gp": 8,
-   "points": 114.9,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 507.0,
-    "Rush TD": 7.0,
-    "Receptions": 22.0,
-    "Rec Yds": 152.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 2.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 50.7,
-    "Rush TD": 42.0,
-    "Receptions": 11.0,
-    "Rec Yds": 15.2,
-    "Fumbles Lost": -4.0
    }
   },
   {
@@ -4073,6 +4156,29 @@
    }
   },
   {
+   "owner": "DOM",
+   "player": "Cam Little",
+   "nfl": "JAX",
+   "pos": "K",
+   "gp": 10,
+   "points": 112.0,
+   "stats": {
+    "FG 0-19": 0.0,
+    "FG 20-29": 3.0,
+    "FG 30-39": 6.0,
+    "FG 40-49": 9.0,
+    "FG 50+": 4.0,
+    "PAT": 29.0
+   },
+   "pts_by_cat": {
+    "FG 20-29": 9.0,
+    "FG 30-39": 18.0,
+    "FG 40-49": 36.0,
+    "FG 50+": 20.0,
+    "PAT": 29.0
+   }
+  },
+  {
    "owner": "STEVE",
    "player": "Nico Collins",
    "nfl": "HOU",
@@ -4097,6 +4203,33 @@
     "Receptions": 20.0,
     "Rec Yds": 53.6,
     "Rec TD": 36.0
+   }
+  },
+  {
+   "owner": "STEVE",
+   "player": "Garrett Wilson",
+   "nfl": "NYJ",
+   "pos": "WR",
+   "gp": 10,
+   "points": 109.7,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 53.0,
+    "Rec Yds": 672.0,
+    "Rec TD": 3.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Receptions": 26.5,
+    "Rec Yds": 67.2,
+    "Rec TD": 18.0,
+    "Fumbles Lost": -2.0
    }
   },
   {
@@ -4129,57 +4262,31 @@
    }
   },
   {
-   "owner": "DOM",
-   "player": "Malik Nabers",
-   "nfl": "NYG",
-   "pos": "WR",
-   "gp": 9,
-   "points": 108.2,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 58.0,
-    "Rec Yds": 692.0,
-    "Rec TD": 2.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Receptions": 29.0,
-    "Rec Yds": 69.2,
-    "Rec TD": 12.0,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "LITTLE BUBS",
-   "player": "Tetairoa McMillan",
+   "owner": "MASON",
+   "player": "Bryce Young",
    "nfl": "CAR",
-   "pos": "WR",
-   "gp": 9,
-   "points": 106.5,
+   "pos": "QB",
+   "gp": 7,
+   "points": 106.48,
    "stats": {
     "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
+    "Pass Yds": 1712.0,
+    "Pass TD": 11.0,
+    "Pass INT": 5.0,
+    "Rush Yds": 30.0,
     "Rush TD": 0.0,
-    "Receptions": 49.0,
-    "Rec Yds": 660.0,
-    "Rec TD": 3.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 1.0
+    "Fumbles Lost": 2.0
    },
    "pts_by_cat": {
-    "Receptions": 24.5,
-    "Rec Yds": 66.0,
-    "Rec TD": 18.0,
-    "Fumbles Lost": -2.0
+    "Pass Yds": 68.48,
+    "Pass TD": 44.0,
+    "Pass INT": -5.0,
+    "Rush Yds": 3.0,
+    "Fumbles Lost": -4.0
    }
   },
   {
@@ -4212,57 +4319,26 @@
    }
   },
   {
-   "owner": "JACK",
-   "player": "George Kittle",
-   "nfl": "SF",
-   "pos": "TE",
-   "gp": 9,
-   "points": 105.7,
+   "owner": "VINNY",
+   "player": "Brandon Aubrey",
+   "nfl": "DAL",
+   "pos": "K",
+   "gp": 11,
+   "points": 106.0,
    "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 44.0,
-    "Rec Yds": 557.0,
-    "Rec TD": 5.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
+    "FG 0-19": 0.0,
+    "FG 20-29": 6.0,
+    "FG 30-39": 4.0,
+    "FG 40-49": 5.0,
+    "FG 50+": 5.0,
+    "PAT": 31.0
    },
    "pts_by_cat": {
-    "Receptions": 22.0,
-    "Rec Yds": 55.7,
-    "Rec TD": 30.0,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "STEVE",
-   "player": "Garrett Wilson",
-   "nfl": "NYJ",
-   "pos": "WR",
-   "gp": 9,
-   "points": 104.3,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 50.0,
-    "Rec Yds": 633.0,
-    "Rec TD": 3.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Receptions": 25.0,
-    "Rec Yds": 63.3,
-    "Rec TD": 18.0,
-    "Fumbles Lost": -2.0
+    "FG 20-29": 18.0,
+    "FG 30-39": 12.0,
+    "FG 40-49": 20.0,
+    "FG 50+": 25.0,
+    "PAT": 31.0
    }
   },
   {
@@ -4291,6 +4367,35 @@
     "Rec Yds": 56.0,
     "Rec TD": 30.0,
     "Fumbles Lost": -4.0
+   }
+  },
+  {
+   "owner": "DOM",
+   "player": "Justin Jefferson",
+   "nfl": "MIN",
+   "pos": "WR",
+   "gp": 10,
+   "points": 101.8,
+   "stats": {
+    "2-Pt Conv": 1.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": -10.0,
+    "Rush TD": 0.0,
+    "Receptions": 47.0,
+    "Rec Yds": 553.0,
+    "Rec TD": 4.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": -1.0,
+    "Receptions": 23.5,
+    "Rec Yds": 55.3,
+    "Rec TD": 24.0,
+    "2-Pt Conv": 2.0,
+    "Fumbles Lost": -2.0
    }
   },
   {
@@ -4324,49 +4429,59 @@
    }
   },
   {
-   "owner": "DOM",
-   "player": "Cam Little",
-   "nfl": "JAX",
-   "pos": "K",
-   "gp": 9,
-   "points": 99.0,
+   "owner": "LITTLE JAMES",
+   "player": "Jared Goff",
+   "nfl": "DET",
+   "pos": "QB",
+   "gp": 5,
+   "points": 96.04,
    "stats": {
-    "FG 0-19": 0.0,
-    "FG 20-29": 2.0,
-    "FG 30-39": 4.0,
-    "FG 40-49": 8.0,
-    "FG 50+": 4.0,
-    "PAT": 29.0
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 1326.0,
+    "Pass TD": 10.0,
+    "Pass INT": 3.0,
+    "Rush Yds": 20.0,
+    "Rush TD": 1.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
-    "FG 20-29": 6.0,
-    "FG 30-39": 12.0,
-    "FG 40-49": 32.0,
-    "FG 50+": 20.0,
-    "PAT": 29.0
+    "Pass Yds": 53.04,
+    "Pass TD": 40.0,
+    "Pass INT": -3.0,
+    "Rush Yds": 2.0,
+    "Rush TD": 6.0,
+    "Fumbles Lost": -2.0
    }
   },
   {
-   "owner": "VINNY",
-   "player": "Brandon Aubrey",
-   "nfl": "DAL",
-   "pos": "K",
-   "gp": 10,
+   "owner": "LITTLE DUANE",
+   "player": "Isaiah Likely",
+   "nfl": "NYG",
+   "pos": "TE",
+   "gp": 8,
    "points": 96.0,
    "stats": {
-    "FG 0-19": 0.0,
-    "FG 20-29": 6.0,
-    "FG 30-39": 4.0,
-    "FG 40-49": 4.0,
-    "FG 50+": 5.0,
-    "PAT": 25.0
+    "2-Pt Conv": 1.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 38.0,
+    "Rec Yds": 450.0,
+    "Rec TD": 5.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "FG 20-29": 18.0,
-    "FG 30-39": 12.0,
-    "FG 40-49": 16.0,
-    "FG 50+": 25.0,
-    "PAT": 25.0
+    "Receptions": 19.0,
+    "Rec Yds": 45.0,
+    "Rec TD": 30.0,
+    "2-Pt Conv": 2.0
    }
   },
   {
@@ -4397,12 +4512,12 @@
    }
   },
   {
-   "owner": "LITTLE DUANE",
-   "player": "Isaiah Likely",
-   "nfl": "NYG",
-   "pos": "TE",
+   "owner": "JACK",
+   "player": "Mike Evans",
+   "nfl": "SF",
+   "pos": "WR",
    "gp": 7,
-   "points": 92.0,
+   "points": 95.4,
    "stats": {
     "2-Pt Conv": 1.0,
     "Pass Yds": 0.0,
@@ -4410,43 +4525,15 @@
     "Pass INT": 0.0,
     "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 37.0,
-    "Rec Yds": 415.0,
-    "Rec TD": 5.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 18.5,
-    "Rec Yds": 41.5,
-    "Rec TD": 30.0,
-    "2-Pt Conv": 2.0
-   }
-  },
-  {
-   "owner": "DOM",
-   "player": "Justin Jefferson",
-   "nfl": "MIN",
-   "pos": "WR",
-   "gp": 9,
-   "points": 91.6,
-   "stats": {
-    "2-Pt Conv": 1.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": -11.0,
-    "Rush TD": 0.0,
-    "Receptions": 40.0,
-    "Rec Yds": 467.0,
+    "Receptions": 33.0,
+    "Rec Yds": 529.0,
     "Rec TD": 4.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": -1.1,
-    "Receptions": 20.0,
-    "Rec Yds": 46.7,
+    "Receptions": 16.5,
+    "Rec Yds": 52.9,
     "Rec TD": 24.0,
     "2-Pt Conv": 2.0
    }
@@ -4456,82 +4543,26 @@
    "player": "Cam Skattebo",
    "nfl": "NYG",
    "pos": "RB",
-   "gp": 7,
-   "points": 90.6,
+   "gp": 8,
+   "points": 94.9,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 496.0,
+    "Rush Yds": 530.0,
     "Rush TD": 4.0,
-    "Receptions": 14.0,
-    "Rec Yds": 120.0,
+    "Receptions": 17.0,
+    "Rec Yds": 134.0,
     "Rec TD": 0.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 1.0
+    "Fumbles Lost": 2.0
    },
    "pts_by_cat": {
-    "Rush Yds": 49.6,
+    "Rush Yds": 53.0,
     "Rush TD": 24.0,
-    "Receptions": 7.0,
-    "Rec Yds": 12.0,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "MASON",
-   "player": "Bryce Young",
-   "nfl": "CAR",
-   "pos": "QB",
-   "gp": 6,
-   "points": 89.52,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 1458.0,
-    "Pass TD": 9.0,
-    "Pass INT": 4.0,
-    "Rush Yds": 32.0,
-    "Rush TD": 0.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 2.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 58.32,
-    "Pass TD": 36.0,
-    "Pass INT": -4.0,
-    "Rush Yds": 3.2,
-    "Fumbles Lost": -4.0
-   }
-  },
-  {
-   "owner": "VINNY",
-   "player": "Luther Burden III",
-   "nfl": "CHI",
-   "pos": "WR",
-   "gp": 7,
-   "points": 86.1,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 11.0,
-    "Rush TD": 0.0,
-    "Receptions": 38.0,
-    "Rec Yds": 520.0,
-    "Rec TD": 3.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 2.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 1.1,
-    "Receptions": 19.0,
-    "Rec Yds": 52.0,
-    "Rec TD": 18.0,
+    "Receptions": 8.5,
+    "Rec Yds": 13.4,
     "Fumbles Lost": -4.0
    }
   },
@@ -4540,22 +4571,131 @@
    "player": "Jake Bates",
    "nfl": "DET",
    "pos": "K",
-   "gp": 9,
-   "points": 85.0,
+   "gp": 10,
+   "points": 94.0,
    "stats": {
     "FG 0-19": 0.0,
     "FG 20-29": 5.0,
     "FG 30-39": 4.0,
     "FG 40-49": 6.0,
-    "FG 50+": 1.0,
-    "PAT": 29.0
+    "FG 50+": 2.0,
+    "PAT": 33.0
    },
    "pts_by_cat": {
     "FG 20-29": 15.0,
     "FG 30-39": 12.0,
     "FG 40-49": 24.0,
-    "FG 50+": 5.0,
-    "PAT": 29.0
+    "FG 50+": 10.0,
+    "PAT": 33.0
+   }
+  },
+  {
+   "owner": "VINNY",
+   "player": "Luther Burden III",
+   "nfl": "CHI",
+   "pos": "WR",
+   "gp": 8,
+   "points": 88.4,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 14.0,
+    "Rush TD": 0.0,
+    "Receptions": 40.0,
+    "Rec Yds": 530.0,
+    "Rec TD": 3.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 2.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 1.4,
+    "Receptions": 20.0,
+    "Rec Yds": 53.0,
+    "Rec TD": 18.0,
+    "Fumbles Lost": -4.0
+   }
+  },
+  {
+   "owner": "LITTLE BUBS",
+   "player": "Patrick Mahomes",
+   "nfl": "KC",
+   "pos": "QB",
+   "gp": 4,
+   "points": 87.88,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 1177.0,
+    "Pass TD": 10.0,
+    "Pass INT": 1.0,
+    "Rush Yds": 18.0,
+    "Rush TD": 0.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Pass Yds": 47.08,
+    "Pass TD": 40.0,
+    "Pass INT": -1.0,
+    "Rush Yds": 1.8
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "Sam LaPorta",
+   "nfl": "DET",
+   "pos": "TE",
+   "gp": 10,
+   "points": 85.4,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 2.0,
+    "Rush TD": 0.0,
+    "Receptions": 39.0,
+    "Rec Yds": 477.0,
+    "Rec TD": 3.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.2,
+    "Receptions": 19.5,
+    "Rec Yds": 47.7,
+    "Rec TD": 18.0
+   }
+  },
+  {
+   "owner": "DOM",
+   "player": "Braelon Allen",
+   "nfl": "NYJ",
+   "pos": "RB",
+   "gp": 6,
+   "points": 84.8,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 579.0,
+    "Rush TD": 2.0,
+    "Receptions": 14.0,
+    "Rec Yds": 79.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 57.9,
+    "Rush TD": 12.0,
+    "Receptions": 7.0,
+    "Rec Yds": 7.9
    }
   },
   {
@@ -4611,30 +4751,88 @@
    }
   },
   {
-   "owner": "DUANE",
-   "player": "Sam LaPorta",
-   "nfl": "DET",
+   "owner": "LITTLE JAMES",
+   "player": "Travis Kelce",
+   "nfl": "KC",
    "pos": "TE",
-   "gp": 9,
-   "points": 77.7,
+   "gp": 8,
+   "points": 80.0,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 2.0,
-    "Rush TD": 0.0,
-    "Receptions": 36.0,
-    "Rec Yds": 415.0,
+    "Rush Yds": 1.0,
+    "Rush TD": 1.0,
+    "Receptions": 29.0,
+    "Rec Yds": 414.0,
     "Rec TD": 3.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 0.2,
-    "Receptions": 18.0,
-    "Rec Yds": 41.5,
+    "Rush Yds": 0.1,
+    "Rush TD": 6.0,
+    "Receptions": 14.5,
+    "Rec Yds": 41.4,
     "Rec TD": 18.0
+   }
+  },
+  {
+   "owner": "LITTLE JAMES",
+   "player": "Christian McCaffrey",
+   "nfl": "SF",
+   "pos": "RB",
+   "gp": 3,
+   "points": 79.2,
+   "stats": {
+    "2-Pt Conv": 1.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 179.0,
+    "Rush TD": 3.0,
+    "Receptions": 8.0,
+    "Rec Yds": 193.0,
+    "Rec TD": 3.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 17.9,
+    "Rush TD": 18.0,
+    "Receptions": 4.0,
+    "Rec Yds": 19.3,
+    "Rec TD": 18.0,
+    "2-Pt Conv": 2.0
+   }
+  },
+  {
+   "owner": "DOM",
+   "player": "Breece Hall",
+   "nfl": "NYJ",
+   "pos": "RB",
+   "gp": 6,
+   "points": 78.0,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 351.0,
+    "Rush TD": 1.0,
+    "Receptions": 20.0,
+    "Rec Yds": 209.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 35.1,
+    "Rush TD": 6.0,
+    "Receptions": 10.0,
+    "Rec Yds": 20.9,
+    "Rec TD": 6.0
    }
   },
   {
@@ -4689,86 +4887,30 @@
    }
   },
   {
-   "owner": "DOM",
-   "player": "Braelon Allen",
-   "nfl": "NYJ",
-   "pos": "RB",
-   "gp": 5,
-   "points": 75.9,
+   "owner": "LITTLE BUBS",
+   "player": "Colston Loveland",
+   "nfl": "CHI",
+   "pos": "TE",
+   "gp": 10,
+   "points": 75.2,
    "stats": {
     "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 504.0,
-    "Rush TD": 2.0,
-    "Receptions": 13.0,
-    "Rec Yds": 70.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 50.4,
-    "Rush TD": 12.0,
-    "Receptions": 6.5,
-    "Rec Yds": 7.0
-   }
-  },
-  {
-   "owner": "LITTLE JAMES",
-   "player": "Jared Goff",
-   "nfl": "DET",
-   "pos": "QB",
-   "gp": 4,
-   "points": 75.68,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 1047.0,
-    "Pass TD": 8.0,
-    "Pass INT": 3.0,
-    "Rush Yds": 8.0,
-    "Rush TD": 1.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 41.88,
-    "Pass TD": 32.0,
-    "Pass INT": -3.0,
-    "Rush Yds": 0.8,
-    "Rush TD": 6.0,
-    "Fumbles Lost": -2.0
-   }
-  },
-  {
-   "owner": "JACK",
-   "player": "Mike Evans",
-   "nfl": "SF",
-   "pos": "WR",
-   "gp": 6,
-   "points": 75.5,
-   "stats": {
-    "2-Pt Conv": 1.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
     "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 27.0,
-    "Rec Yds": 420.0,
+    "Receptions": 40.0,
+    "Rec Yds": 392.0,
     "Rec TD": 3.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 0.0
+    "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
-    "Receptions": 13.5,
-    "Rec Yds": 42.0,
+    "Receptions": 20.0,
+    "Rec Yds": 39.2,
     "Rec TD": 18.0,
-    "2-Pt Conv": 2.0
+    "Fumbles Lost": -2.0
    }
   },
   {
@@ -4799,6 +4941,34 @@
    }
   },
   {
+   "owner": "LITTLE DUANE",
+   "player": "Bhayshul Tuten",
+   "nfl": "JAX",
+   "pos": "RB",
+   "gp": 5,
+   "points": 74.0,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 326.0,
+    "Rush TD": 3.0,
+    "Receptions": 10.0,
+    "Rec Yds": 124.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 32.6,
+    "Rush TD": 18.0,
+    "Receptions": 5.0,
+    "Rec Yds": 12.4,
+    "Rec TD": 6.0
+   }
+  },
+  {
    "owner": "POPPY",
    "player": "Jason Myers",
    "nfl": "SEA",
@@ -4819,6 +4989,34 @@
     "FG 40-49": 20.0,
     "FG 50+": 10.0,
     "PAT": 17.0
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "Aaron Jones Sr.",
+   "nfl": "MIN",
+   "pos": "RB",
+   "gp": 6,
+   "points": 69.6,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 368.0,
+    "Rush TD": 3.0,
+    "Receptions": 15.0,
+    "Rec Yds": 93.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 36.8,
+    "Rush TD": 18.0,
+    "Receptions": 7.5,
+    "Rec Yds": 9.3,
+    "Fumbles Lost": -2.0
    }
   },
   {
@@ -4873,60 +5071,86 @@
    }
   },
   {
-   "owner": "LITTLE DUANE",
-   "player": "Bhayshul Tuten",
-   "nfl": "JAX",
+   "owner": "MASON",
+   "player": "Jonah Coleman",
+   "nfl": "DEN",
    "pos": "RB",
-   "gp": 4,
-   "points": 67.2,
+   "gp": 3,
+   "points": 68.1,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 293.0,
-    "Rush TD": 3.0,
-    "Receptions": 7.0,
-    "Rec Yds": 104.0,
-    "Rec TD": 1.0,
+    "Rush Yds": 209.0,
+    "Rush TD": 5.0,
+    "Receptions": 12.0,
+    "Rec Yds": 112.0,
+    "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 29.3,
-    "Rush TD": 18.0,
-    "Receptions": 3.5,
-    "Rec Yds": 10.4,
-    "Rec TD": 6.0
+    "Rush Yds": 20.9,
+    "Rush TD": 30.0,
+    "Receptions": 6.0,
+    "Rec Yds": 11.2
    }
   },
   {
-   "owner": "LITTLE JAMES",
-   "player": "Christian McCaffrey",
+   "owner": "POPPY",
+   "player": "Deebo Samuel Sr.",
    "nfl": "SF",
-   "pos": "RB",
-   "gp": 2,
-   "points": 66.0,
+   "pos": "WR",
+   "gp": 6,
+   "points": 68.0,
    "stats": {
-    "2-Pt Conv": 1.0,
+    "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 130.0,
-    "Rush TD": 2.0,
-    "Receptions": 6.0,
-    "Rec Yds": 180.0,
+    "Rush Yds": 171.0,
+    "Rush TD": 1.0,
+    "Receptions": 16.0,
+    "Rec Yds": 209.0,
     "Rec TD": 3.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 1.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 17.1,
+    "Rush TD": 6.0,
+    "Receptions": 8.0,
+    "Rec Yds": 20.9,
+    "Rec TD": 18.0,
+    "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "LITTLE BUBS",
+   "player": "Ollie Gordon II",
+   "nfl": "MIA",
+   "pos": "RB",
+   "gp": 6,
+   "points": 66.6,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 460.0,
+    "Rush TD": 2.0,
+    "Receptions": 8.0,
+    "Rec Yds": 46.0,
+    "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 13.0,
+    "Rush Yds": 46.0,
     "Rush TD": 12.0,
-    "Receptions": 3.0,
-    "Rec Yds": 18.0,
-    "Rec TD": 18.0,
-    "2-Pt Conv": 2.0
+    "Receptions": 4.0,
+    "Rec Yds": 4.6
    }
   },
   {
@@ -4953,33 +5177,6 @@
     "Receptions": 13.0,
     "Rec Yds": 28.7,
     "Rec TD": 24.0
-   }
-  },
-  {
-   "owner": "LITTLE BUBS",
-   "player": "Colston Loveland",
-   "nfl": "CHI",
-   "pos": "TE",
-   "gp": 9,
-   "points": 64.8,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 37.0,
-    "Rec Yds": 363.0,
-    "Rec TD": 2.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Receptions": 18.5,
-    "Rec Yds": 36.3,
-    "Rec TD": 12.0,
-    "Fumbles Lost": -2.0
    }
   },
   {
@@ -5056,59 +5253,29 @@
    }
   },
   {
-   "owner": "LITTLE BUBS",
-   "player": "Patrick Mahomes",
-   "nfl": "KC",
-   "pos": "QB",
-   "gp": 3,
-   "points": 62.92,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 853.0,
-    "Pass TD": 7.0,
-    "Pass INT": 1.0,
-    "Rush Yds": 18.0,
-    "Rush TD": 0.0,
-    "Receptions": 0.0,
-    "Rec Yds": 0.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Pass Yds": 34.12,
-    "Pass TD": 28.0,
-    "Pass INT": -1.0,
-    "Rush Yds": 1.8
-   }
-  },
-  {
-   "owner": "POPPY",
-   "player": "Deebo Samuel Sr.",
-   "nfl": "SF",
+   "owner": "DUANE",
+   "player": "DeVonta Smith",
+   "nfl": "PHI",
    "pos": "WR",
    "gp": 5,
-   "points": 61.8,
+   "points": 62.6,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 144.0,
-    "Rush TD": 1.0,
-    "Receptions": 13.0,
-    "Rec Yds": 189.0,
-    "Rec TD": 3.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 31.0,
+    "Rec Yds": 351.0,
+    "Rec TD": 2.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 1.0
+    "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 14.4,
-    "Rush TD": 6.0,
-    "Receptions": 6.5,
-    "Rec Yds": 18.9,
-    "Rec TD": 18.0,
-    "Fumbles Lost": -2.0
+    "Receptions": 15.5,
+    "Rec Yds": 35.1,
+    "Rec TD": 12.0
    }
   },
   {
@@ -5140,85 +5307,113 @@
    }
   },
   {
-   "owner": "DOM",
-   "player": "Breece Hall",
-   "nfl": "NYJ",
+   "owner": "MASON",
+   "player": "Omarion Hampton",
+   "nfl": "LAC",
    "pos": "RB",
-   "gp": 5,
-   "points": 60.5,
+   "gp": 7,
+   "points": 60.6,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 265.0,
-    "Rush TD": 1.0,
+    "Rush Yds": 380.0,
+    "Rush TD": 3.0,
+    "Receptions": 8.0,
+    "Rec Yds": 46.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 2.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 38.0,
+    "Rush TD": 18.0,
+    "Receptions": 4.0,
+    "Rec Yds": 4.6,
+    "Fumbles Lost": -4.0
+   }
+  },
+  {
+   "owner": "POPPY",
+   "player": "Josh Downs",
+   "nfl": "KC",
+   "pos": "WR",
+   "gp": 9,
+   "points": 60.3,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 7.0,
+    "Rush TD": 0.0,
+    "Receptions": 34.0,
+    "Rec Yds": 366.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.7,
     "Receptions": 17.0,
-    "Rec Yds": 195.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 26.5,
-    "Rush TD": 6.0,
-    "Receptions": 8.5,
-    "Rec Yds": 19.5
+    "Rec Yds": 36.6,
+    "Rec TD": 6.0
    }
   },
   {
-   "owner": "LITTLE BUBS",
-   "player": "Ollie Gordon II",
-   "nfl": "MIA",
-   "pos": "RB",
-   "gp": 5,
-   "points": 58.9,
+   "owner": "BUBBA",
+   "player": "DJ Moore",
+   "nfl": "BUF",
+   "pos": "WR",
+   "gp": 6,
+   "points": 58.3,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 391.0,
-    "Rush TD": 2.0,
-    "Receptions": 6.0,
-    "Rec Yds": 48.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 39.1,
-    "Rush TD": 12.0,
-    "Receptions": 3.0,
-    "Rec Yds": 4.8
-   }
-  },
-  {
-   "owner": "DUANE",
-   "player": "Aaron Jones Sr.",
-   "nfl": "MIN",
-   "pos": "RB",
-   "gp": 5,
-   "points": 58.8,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 338.0,
-    "Rush TD": 2.0,
-    "Receptions": 14.0,
-    "Rec Yds": 80.0,
-    "Rec TD": 0.0,
+    "Rush Yds": 24.0,
+    "Rush TD": 0.0,
+    "Receptions": 20.0,
+    "Rec Yds": 299.0,
+    "Rec TD": 3.0,
     "Return TD": 0.0,
     "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
-    "Rush Yds": 33.8,
-    "Rush TD": 12.0,
-    "Receptions": 7.0,
-    "Rec Yds": 8.0,
+    "Rush Yds": 2.4,
+    "Receptions": 10.0,
+    "Rec Yds": 29.9,
+    "Rec TD": 18.0,
     "Fumbles Lost": -2.0
+   }
+  },
+  {
+   "owner": "JACK",
+   "player": "Ryan Flournoy",
+   "nfl": "DAL",
+   "pos": "WR",
+   "gp": 6,
+   "points": 58.1,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 3.0,
+    "Rush TD": 0.0,
+    "Receptions": 23.0,
+    "Rec Yds": 283.0,
+    "Rec TD": 3.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.3,
+    "Receptions": 11.5,
+    "Rec Yds": 28.3,
+    "Rec TD": 18.0
    }
   },
   {
@@ -5245,67 +5440,12 @@
    }
   },
   {
-   "owner": "LITTLE JAMES",
-   "player": "Travis Kelce",
+   "owner": "LITTLE DUANE",
+   "player": "Rashee Rice",
    "nfl": "KC",
-   "pos": "TE",
-   "gp": 7,
-   "points": 57.6,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 1.0,
-    "Rush TD": 1.0,
-    "Receptions": 23.0,
-    "Rec Yds": 340.0,
-    "Rec TD": 1.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 0.1,
-    "Rush TD": 6.0,
-    "Receptions": 11.5,
-    "Rec Yds": 34.0,
-    "Rec TD": 6.0
-   }
-  },
-  {
-   "owner": "JACK",
-   "player": "Ryan Flournoy",
-   "nfl": "DAL",
    "pos": "WR",
-   "gp": 5,
-   "points": 56.5,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 3.0,
-    "Rush TD": 0.0,
-    "Receptions": 22.0,
-    "Rec Yds": 272.0,
-    "Rec TD": 3.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 0.3,
-    "Receptions": 11.0,
-    "Rec Yds": 27.2,
-    "Rec TD": 18.0
-   }
-  },
-  {
-   "owner": "DUANE",
-   "player": "DeVonta Smith",
-   "nfl": "PHI",
-   "pos": "WR",
-   "gp": 4,
-   "points": 56.0,
+   "gp": 6,
+   "points": 57.9,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
@@ -5313,16 +5453,44 @@
     "Pass INT": 0.0,
     "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 26.0,
-    "Rec Yds": 310.0,
-    "Rec TD": 2.0,
+    "Receptions": 29.0,
+    "Rec Yds": 374.0,
+    "Rec TD": 1.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
+    "Receptions": 14.5,
+    "Rec Yds": 37.4,
+    "Rec TD": 6.0
+   }
+  },
+  {
+   "owner": "LITTLE JAMES",
+   "player": "Tyler Allgeier",
+   "nfl": "ARI",
+   "pos": "RB",
+   "gp": 7,
+   "points": 57.2,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 294.0,
+    "Rush TD": 1.0,
     "Receptions": 13.0,
-    "Rec Yds": 31.0,
-    "Rec TD": 12.0
+    "Rec Yds": 93.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 29.4,
+    "Rush TD": 6.0,
+    "Receptions": 6.5,
+    "Rec Yds": 9.3,
+    "Rec TD": 6.0
    }
   },
   {
@@ -5382,31 +5550,58 @@
    }
   },
   {
-   "owner": "LITTLE JAMES",
-   "player": "Tyler Allgeier",
-   "nfl": "ARI",
+   "owner": "JAMES",
+   "player": "Saquon Barkley",
+   "nfl": "PHI",
    "pos": "RB",
-   "gp": 6,
-   "points": 54.9,
+   "gp": 7,
+   "points": 54.6,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 271.0,
-    "Rush TD": 1.0,
-    "Receptions": 13.0,
-    "Rec Yds": 93.0,
-    "Rec TD": 1.0,
+    "Rush Yds": 309.0,
+    "Rush TD": 3.0,
+    "Receptions": 5.0,
+    "Rec Yds": 32.0,
+    "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 27.1,
+    "Rush Yds": 30.9,
+    "Rush TD": 18.0,
+    "Receptions": 2.5,
+    "Rec Yds": 3.2
+   }
+  },
+  {
+   "owner": "STEVE",
+   "player": "Emmett Johnson",
+   "nfl": "KC",
+   "pos": "RB",
+   "gp": 2,
+   "points": 54.4,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 206.0,
+    "Rush TD": 1.0,
+    "Receptions": 10.0,
+    "Rec Yds": 108.0,
+    "Rec TD": 2.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 20.6,
     "Rush TD": 6.0,
-    "Receptions": 6.5,
-    "Rec Yds": 9.3,
-    "Rec TD": 6.0
+    "Receptions": 5.0,
+    "Rec Yds": 10.8,
+    "Rec TD": 12.0
    }
   },
   {
@@ -5483,33 +5678,6 @@
   },
   {
    "owner": "POPPY",
-   "player": "Josh Downs",
-   "nfl": "KC",
-   "pos": "WR",
-   "gp": 8,
-   "points": 52.4,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 7.0,
-    "Rush TD": 0.0,
-    "Receptions": 30.0,
-    "Rec Yds": 307.0,
-    "Rec TD": 1.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 0.7,
-    "Receptions": 15.0,
-    "Rec Yds": 30.7,
-    "Rec TD": 6.0
-   }
-  },
-  {
-   "owner": "POPPY",
    "player": "KC Concepcion Jr.",
    "nfl": "CLE",
    "pos": "WR",
@@ -5537,31 +5705,31 @@
    }
   },
   {
-   "owner": "MASON",
-   "player": "Omarion Hampton",
-   "nfl": "LAC",
-   "pos": "RB",
-   "gp": 6,
-   "points": 50.8,
+   "owner": "DUANE",
+   "player": "Emeka Egbuka",
+   "nfl": "TB",
+   "pos": "WR",
+   "gp": 7,
+   "points": 51.0,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 291.0,
-    "Rush TD": 3.0,
-    "Receptions": 7.0,
-    "Rec Yds": 42.0,
-    "Rec TD": 0.0,
+    "Rush Yds": 12.0,
+    "Rush TD": 1.0,
+    "Receptions": 26.0,
+    "Rec Yds": 248.0,
+    "Rec TD": 1.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 2.0
+    "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 29.1,
-    "Rush TD": 18.0,
-    "Receptions": 3.5,
-    "Rec Yds": 4.2,
-    "Fumbles Lost": -4.0
+    "Rush Yds": 1.2,
+    "Rush TD": 6.0,
+    "Receptions": 13.0,
+    "Rec Yds": 24.8,
+    "Rec TD": 6.0
    }
   },
   {
@@ -5594,32 +5762,6 @@
    }
   },
   {
-   "owner": "LITTLE DUANE",
-   "player": "Rashee Rice",
-   "nfl": "KC",
-   "pos": "WR",
-   "gp": 5,
-   "points": 49.6,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 23.0,
-    "Rec Yds": 321.0,
-    "Rec TD": 1.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 11.5,
-    "Rec Yds": 32.1,
-    "Rec TD": 6.0
-   }
-  },
-  {
    "owner": "VINNY",
    "player": "Blake Corum",
    "nfl": "LAR",
@@ -5648,31 +5790,30 @@
    }
   },
   {
-   "owner": "DUANE",
-   "player": "Emeka Egbuka",
-   "nfl": "TB",
-   "pos": "WR",
+   "owner": "DOM",
+   "player": "Dallas Goedert",
+   "nfl": "PHI",
+   "pos": "TE",
    "gp": 6,
-   "points": 48.2,
+   "points": 48.5,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 12.0,
-    "Rush TD": 1.0,
-    "Receptions": 24.0,
-    "Rec Yds": 230.0,
-    "Rec TD": 1.0,
+    "Rush Yds": 2.0,
+    "Rush TD": 0.0,
+    "Receptions": 21.0,
+    "Rec Yds": 258.0,
+    "Rec TD": 2.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 1.2,
-    "Rush TD": 6.0,
-    "Receptions": 12.0,
-    "Rec Yds": 23.0,
-    "Rec TD": 6.0
+    "Rush Yds": 0.2,
+    "Receptions": 10.5,
+    "Rec Yds": 25.8,
+    "Rec TD": 12.0
    }
   },
   {
@@ -5776,33 +5917,6 @@
    }
   },
   {
-   "owner": "DOM",
-   "player": "Dallas Goedert",
-   "nfl": "PHI",
-   "pos": "TE",
-   "gp": 5,
-   "points": 44.2,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 2.0,
-    "Rush TD": 0.0,
-    "Receptions": 20.0,
-    "Rec Yds": 220.0,
-    "Rec TD": 2.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 0.2,
-    "Receptions": 10.0,
-    "Rec Yds": 22.0,
-    "Rec TD": 12.0
-   }
-  },
-  {
    "owner": "DUANE",
    "player": "Eddy Pineiro",
    "nfl": "SF",
@@ -5877,58 +5991,53 @@
    }
   },
   {
+   "owner": "BUBBA",
+   "player": "Will Reichard",
+   "nfl": "MIN",
+   "pos": "K",
+   "gp": 5,
+   "points": 40.0,
+   "stats": {
+    "FG 0-19": 0.0,
+    "FG 20-29": 2.0,
+    "FG 30-39": 2.0,
+    "FG 40-49": 3.0,
+    "FG 50+": 2.0,
+    "PAT": 6.0
+   },
+   "pts_by_cat": {
+    "FG 20-29": 6.0,
+    "FG 30-39": 6.0,
+    "FG 40-49": 12.0,
+    "FG 50+": 10.0,
+    "PAT": 6.0
+   }
+  },
+  {
    "owner": "JAMES",
-   "player": "Saquon Barkley",
-   "nfl": "PHI",
-   "pos": "RB",
-   "gp": 6,
-   "points": 41.1,
+   "player": "Jameson Williams",
+   "nfl": "DET",
+   "pos": "WR",
+   "gp": 5,
+   "points": 39.6,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 234.0,
-    "Rush TD": 2.0,
-    "Receptions": 5.0,
-    "Rec Yds": 32.0,
-    "Rec TD": 0.0,
+    "Rush Yds": 9.0,
+    "Rush TD": 0.0,
+    "Receptions": 15.0,
+    "Rec Yds": 252.0,
+    "Rec TD": 1.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 23.4,
-    "Rush TD": 12.0,
-    "Receptions": 2.5,
-    "Rec Yds": 3.2
-   }
-  },
-  {
-   "owner": "BUBBA",
-   "player": "DJ Moore",
-   "nfl": "BUF",
-   "pos": "WR",
-   "gp": 5,
-   "points": 39.2,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 24.0,
-    "Rush TD": 0.0,
-    "Receptions": 12.0,
-    "Rec Yds": 208.0,
-    "Rec TD": 2.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 1.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 2.4,
-    "Receptions": 6.0,
-    "Rec Yds": 20.8,
-    "Rec TD": 12.0,
-    "Fumbles Lost": -2.0
+    "Rush Yds": 0.9,
+    "Receptions": 7.5,
+    "Rec Yds": 25.2,
+    "Rec TD": 6.0
    }
   },
   {
@@ -5982,6 +6091,29 @@
    }
   },
   {
+   "owner": "LITTLE JAMES",
+   "player": "Tyler Bass",
+   "nfl": "BUF",
+   "pos": "K",
+   "gp": 3,
+   "points": 38.0,
+   "stats": {
+    "FG 0-19": 0.0,
+    "FG 20-29": 2.0,
+    "FG 30-39": 2.0,
+    "FG 40-49": 2.0,
+    "FG 50+": 2.0,
+    "PAT": 8.0
+   },
+   "pts_by_cat": {
+    "FG 20-29": 6.0,
+    "FG 30-39": 6.0,
+    "FG 40-49": 8.0,
+    "FG 50+": 10.0,
+    "PAT": 8.0
+   }
+  },
+  {
    "owner": "STEVE",
    "player": "Harold Fannin Jr.",
    "nfl": "CLE",
@@ -6032,56 +6164,6 @@
     "Pass TD": 20.0,
     "Pass INT": -1.0,
     "Rush Yds": -0.3
-   }
-  },
-  {
-   "owner": "MASON",
-   "player": "Jonah Coleman",
-   "nfl": "DEN",
-   "pos": "RB",
-   "gp": 2,
-   "points": 35.2,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 98.0,
-    "Rush TD": 2.0,
-    "Receptions": 8.0,
-    "Rec Yds": 94.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 9.8,
-    "Rush TD": 12.0,
-    "Receptions": 4.0,
-    "Rec Yds": 9.4
-   }
-  },
-  {
-   "owner": "BUBBA",
-   "player": "Will Reichard",
-   "nfl": "MIN",
-   "pos": "K",
-   "gp": 4,
-   "points": 35.0,
-   "stats": {
-    "FG 0-19": 0.0,
-    "FG 20-29": 2.0,
-    "FG 30-39": 2.0,
-    "FG 40-49": 2.0,
-    "FG 50+": 2.0,
-    "PAT": 5.0
-   },
-   "pts_by_cat": {
-    "FG 20-29": 6.0,
-    "FG 30-39": 6.0,
-    "FG 40-49": 8.0,
-    "FG 50+": 10.0,
-    "PAT": 5.0
    }
   },
   {
@@ -6180,6 +6262,28 @@
    }
   },
   {
+   "owner": "DOM",
+   "player": "Lions",
+   "nfl": "DET",
+   "pos": "DEF",
+   "gp": 6,
+   "points": 34.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 24.0,
+    "Safety": 0.0,
+    "Def INT": 3.0,
+    "Fum Rec": 2.0,
+    "Def TD": 0.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 24.0,
+    "Def INT": 6.0,
+    "Fum Rec": 4.0
+   }
+  },
+  {
    "owner": "JAMES",
    "player": "Mike Gesicki",
    "nfl": "CIN",
@@ -6206,30 +6310,30 @@
    }
   },
   {
-   "owner": "STEVE",
-   "player": "Emmett Johnson",
-   "nfl": "KC",
+   "owner": "VINNY",
+   "player": "Kyle Monangai",
+   "nfl": "CHI",
    "pos": "RB",
-   "gp": 1,
-   "points": 32.1,
+   "gp": 3,
+   "points": 32.4,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 101.0,
-    "Rush TD": 0.0,
-    "Receptions": 6.0,
-    "Rec Yds": 70.0,
-    "Rec TD": 2.0,
+    "Rush Yds": 195.0,
+    "Rush TD": 2.0,
+    "Receptions": 1.0,
+    "Rec Yds": 4.0,
+    "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 10.1,
-    "Receptions": 3.0,
-    "Rec Yds": 7.0,
-    "Rec TD": 12.0
+    "Rush Yds": 19.5,
+    "Rush TD": 12.0,
+    "Receptions": 0.5,
+    "Rec Yds": 0.4
    }
   },
   {
@@ -6313,33 +6417,6 @@
    }
   },
   {
-   "owner": "VINNY",
-   "player": "Kyle Monangai",
-   "nfl": "CHI",
-   "pos": "RB",
-   "gp": 2,
-   "points": 30.6,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 177.0,
-    "Rush TD": 2.0,
-    "Receptions": 1.0,
-    "Rec Yds": 4.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Rush Yds": 17.7,
-    "Rush TD": 12.0,
-    "Receptions": 0.5,
-    "Rec Yds": 0.4
-   }
-  },
-  {
    "owner": "STEVE",
    "player": "Ka'imi Fairbairn",
    "nfl": "HOU",
@@ -6385,25 +6462,26 @@
    }
   },
   {
-   "owner": "DOM",
-   "player": "Lions",
-   "nfl": "DET",
+   "owner": "VINNY",
+   "player": "Jaguars",
+   "nfl": "JAX",
    "pos": "DEF",
-   "gp": 5,
-   "points": 30.0,
+   "gp": 4,
+   "points": 29.0,
    "stats": {
     "Blocked Kick": 0.0,
-    "Sacks": 20.0,
+    "Sacks": 7.0,
     "Safety": 0.0,
-    "Def INT": 3.0,
-    "Fum Rec": 2.0,
-    "Def TD": 0.0,
+    "Def INT": 5.0,
+    "Fum Rec": 3.0,
+    "Def TD": 1.0,
     "Def Return TD": 0.0
    },
    "pts_by_cat": {
-    "Sacks": 20.0,
-    "Def INT": 6.0,
-    "Fum Rec": 4.0
+    "Sacks": 7.0,
+    "Def INT": 10.0,
+    "Fum Rec": 6.0,
+    "Def TD": 6.0
    }
   },
   {
@@ -6629,26 +6707,27 @@
    }
   },
   {
-   "owner": "VINNY",
-   "player": "Jaguars",
-   "nfl": "JAX",
+   "owner": "LITTLE DUANE",
+   "player": "Bears",
+   "nfl": "CHI",
    "pos": "DEF",
-   "gp": 3,
+   "gp": 2,
    "points": 26.0,
    "stats": {
     "Blocked Kick": 0.0,
-    "Sacks": 6.0,
-    "Safety": 0.0,
-    "Def INT": 5.0,
-    "Fum Rec": 2.0,
+    "Sacks": 10.0,
+    "Safety": 1.0,
+    "Def INT": 3.0,
+    "Fum Rec": 1.0,
     "Def TD": 1.0,
     "Def Return TD": 0.0
    },
    "pts_by_cat": {
-    "Sacks": 6.0,
-    "Def INT": 10.0,
-    "Fum Rec": 4.0,
-    "Def TD": 6.0
+    "Sacks": 10.0,
+    "Def INT": 6.0,
+    "Fum Rec": 2.0,
+    "Def TD": 6.0,
+    "Safety": 2.0
    }
   },
   {
@@ -6734,6 +6813,28 @@
    }
   },
   {
+   "owner": "STEVE",
+   "player": "Vikings",
+   "nfl": "MIN",
+   "pos": "DEF",
+   "gp": 5,
+   "points": 24.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 12.0,
+    "Safety": 0.0,
+    "Def INT": 4.0,
+    "Fum Rec": 2.0,
+    "Def TD": 0.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 12.0,
+    "Def INT": 8.0,
+    "Fum Rec": 4.0
+   }
+  },
+  {
    "owner": "LITTLE JAMES",
    "player": "Chris Godwin Jr.",
    "nfl": "TB",
@@ -6784,28 +6885,6 @@
     "Rush TD": 6.0,
     "Receptions": 0.5,
     "Rec Yds": 1.5
-   }
-  },
-  {
-   "owner": "STEVE",
-   "player": "Vikings",
-   "nfl": "MIN",
-   "pos": "DEF",
-   "gp": 4,
-   "points": 23.0,
-   "stats": {
-    "Blocked Kick": 0.0,
-    "Sacks": 11.0,
-    "Safety": 0.0,
-    "Def INT": 4.0,
-    "Fum Rec": 2.0,
-    "Def TD": 0.0,
-    "Def Return TD": 0.0
-   },
-   "pts_by_cat": {
-    "Sacks": 11.0,
-    "Def INT": 8.0,
-    "Fum Rec": 4.0
    }
   },
   {
@@ -6862,29 +6941,31 @@
    }
   },
   {
-   "owner": "JAMES",
-   "player": "Jameson Williams",
-   "nfl": "DET",
-   "pos": "WR",
-   "gp": 4,
-   "points": 22.3,
+   "owner": "BUBBA",
+   "player": "Cam Ward",
+   "nfl": "TEN",
+   "pos": "QB",
+   "gp": 1,
+   "points": 22.22,
    "stats": {
     "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
+    "Pass Yds": 248.0,
+    "Pass TD": 2.0,
     "Pass INT": 0.0,
-    "Rush Yds": 9.0,
-    "Rush TD": 0.0,
-    "Receptions": 11.0,
-    "Rec Yds": 159.0,
+    "Rush Yds": 3.0,
+    "Rush TD": 1.0,
+    "Receptions": 0.0,
+    "Rec Yds": 0.0,
     "Rec TD": 0.0,
     "Return TD": 0.0,
-    "Fumbles Lost": 0.0
+    "Fumbles Lost": 1.0
    },
    "pts_by_cat": {
-    "Rush Yds": 0.9,
-    "Receptions": 5.5,
-    "Rec Yds": 15.9
+    "Pass Yds": 9.92,
+    "Pass TD": 8.0,
+    "Rush Yds": 0.3,
+    "Rush TD": 6.0,
+    "Fumbles Lost": -2.0
    }
   },
   {
@@ -6963,6 +7044,27 @@
    }
   },
   {
+   "owner": "LITTLE BUBS",
+   "player": "Eddy Pineiro",
+   "nfl": "SF",
+   "pos": "K",
+   "gp": 3,
+   "points": 21.0,
+   "stats": {
+    "FG 0-19": 0.0,
+    "FG 20-29": 1.0,
+    "FG 30-39": 1.0,
+    "FG 40-49": 0.0,
+    "FG 50+": 0.0,
+    "PAT": 15.0
+   },
+   "pts_by_cat": {
+    "FG 20-29": 3.0,
+    "FG 30-39": 3.0,
+    "PAT": 15.0
+   }
+  },
+  {
    "owner": "DUANE",
    "player": "Evan McPherson",
    "nfl": "CIN",
@@ -6982,6 +7084,28 @@
     "FG 40-49": 4.0,
     "FG 50+": 5.0,
     "PAT": 9.0
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "Giants",
+   "nfl": "NYG",
+   "pos": "DEF",
+   "gp": 3,
+   "points": 21.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 11.0,
+    "Safety": 0.0,
+    "Def INT": 4.0,
+    "Fum Rec": 1.0,
+    "Def TD": 0.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 11.0,
+    "Def INT": 8.0,
+    "Fum Rec": 2.0
    }
   },
   {
@@ -7015,7 +7139,7 @@
    "player": "J.K. Dobbins",
    "nfl": "DEN",
    "pos": "RB",
-   "gp": 2,
+   "gp": 3,
    "points": 20.4,
    "stats": {
     "2-Pt Conv": 0.0,
@@ -7087,28 +7211,6 @@
     "Receptions": 2.5,
     "Rec Yds": 11.5,
     "Rec TD": 6.0
-   }
-  },
-  {
-   "owner": "LITTLE JAMES",
-   "player": "Tyler Bass",
-   "nfl": "BUF",
-   "pos": "K",
-   "gp": 2,
-   "points": 20.0,
-   "stats": {
-    "FG 0-19": 0.0,
-    "FG 20-29": 1.0,
-    "FG 30-39": 2.0,
-    "FG 40-49": 0.0,
-    "FG 50+": 1.0,
-    "PAT": 6.0
-   },
-   "pts_by_cat": {
-    "FG 20-29": 3.0,
-    "FG 30-39": 6.0,
-    "FG 50+": 5.0,
-    "PAT": 6.0
    }
   },
   {
@@ -7362,27 +7464,6 @@
    }
   },
   {
-   "owner": "LITTLE BUBS",
-   "player": "Eddy Pineiro",
-   "nfl": "SF",
-   "pos": "K",
-   "gp": 2,
-   "points": 16.0,
-   "stats": {
-    "FG 0-19": 0.0,
-    "FG 20-29": 1.0,
-    "FG 30-39": 1.0,
-    "FG 40-49": 0.0,
-    "FG 50+": 0.0,
-    "PAT": 10.0
-   },
-   "pts_by_cat": {
-    "FG 20-29": 3.0,
-    "FG 30-39": 3.0,
-    "PAT": 10.0
-   }
-  },
-  {
    "owner": "JACK",
    "player": "Mark Andrews",
    "nfl": "BAL",
@@ -7458,47 +7539,29 @@
    }
   },
   {
-   "owner": "DUANE",
-   "player": "Giants",
-   "nfl": "NYG",
-   "pos": "DEF",
-   "gp": 2,
-   "points": 14.0,
+   "owner": "VINNY",
+   "player": "Rico Dowdle",
+   "nfl": "PIT",
+   "pos": "RB",
+   "gp": 3,
+   "points": 13.9,
    "stats": {
-    "Blocked Kick": 0.0,
-    "Sacks": 8.0,
-    "Safety": 0.0,
-    "Def INT": 2.0,
-    "Fum Rec": 1.0,
-    "Def TD": 0.0,
-    "Def Return TD": 0.0
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 52.0,
+    "Rush TD": 0.0,
+    "Receptions": 8.0,
+    "Rec Yds": 47.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Sacks": 8.0,
-    "Def INT": 4.0,
-    "Fum Rec": 2.0
-   }
-  },
-  {
-   "owner": "LITTLE DUANE",
-   "player": "Bears",
-   "nfl": "CHI",
-   "pos": "DEF",
-   "gp": 1,
-   "points": 14.0,
-   "stats": {
-    "Blocked Kick": 0.0,
-    "Sacks": 4.0,
-    "Safety": 0.0,
-    "Def INT": 2.0,
-    "Fum Rec": 0.0,
-    "Def TD": 1.0,
-    "Def Return TD": 0.0
-   },
-   "pts_by_cat": {
-    "Sacks": 4.0,
-    "Def INT": 4.0,
-    "Def TD": 6.0
+    "Rush Yds": 5.2,
+    "Receptions": 4.0,
+    "Rec Yds": 4.7
    }
   },
   {
@@ -7600,6 +7663,54 @@
     "Def INT": 2.0,
     "Fum Rec": 4.0,
     "Safety": 2.0
+   }
+  },
+  {
+   "owner": "BUBBA",
+   "player": "Broncos",
+   "nfl": "DEN",
+   "pos": "DEF",
+   "gp": 1,
+   "points": 13.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 5.0,
+    "Safety": 0.0,
+    "Def INT": 1.0,
+    "Fum Rec": 0.0,
+    "Def TD": 1.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 5.0,
+    "Def INT": 2.0,
+    "Def TD": 6.0
+   }
+  },
+  {
+   "owner": "DUANE",
+   "player": "Carnell Tate",
+   "nfl": "TEN",
+   "pos": "WR",
+   "gp": 1,
+   "points": 12.8,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 2.0,
+    "Rec Yds": 58.0,
+    "Rec TD": 1.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 1.0,
+    "Rec Yds": 5.8,
+    "Rec TD": 6.0
    }
   },
   {
@@ -7727,6 +7838,26 @@
    }
   },
   {
+   "owner": "JACK",
+   "player": "Harrison Butker",
+   "nfl": "KC",
+   "pos": "K",
+   "gp": 1,
+   "points": 12.0,
+   "stats": {
+    "FG 0-19": 0.0,
+    "FG 20-29": 0.0,
+    "FG 30-39": 0.0,
+    "FG 40-49": 2.0,
+    "FG 50+": 0.0,
+    "PAT": 4.0
+   },
+   "pts_by_cat": {
+    "FG 40-49": 8.0,
+    "PAT": 4.0
+   }
+  },
+  {
    "owner": "JAMES",
    "player": "Trey Smack",
    "nfl": "GB",
@@ -7770,6 +7901,28 @@
    }
   },
   {
+   "owner": "JAMES",
+   "player": "Bills",
+   "nfl": "BUF",
+   "pos": "DEF",
+   "gp": 2,
+   "points": 12.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 6.0,
+    "Safety": 0.0,
+    "Def INT": 2.0,
+    "Fum Rec": 1.0,
+    "Def TD": 0.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 6.0,
+    "Def INT": 4.0,
+    "Fum Rec": 2.0
+   }
+  },
+  {
    "owner": "MASON",
    "player": "Antonio Williams",
    "nfl": "WAS",
@@ -7793,6 +7946,29 @@
     "Receptions": 1.0,
     "Rec Yds": 4.2,
     "Rec TD": 6.0
+   }
+  },
+  {
+   "owner": "POPPY",
+   "player": "49ers",
+   "nfl": "SF",
+   "pos": "DEF",
+   "gp": 1,
+   "points": 11.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 1.0,
+    "Safety": 0.0,
+    "Def INT": 1.0,
+    "Fum Rec": 1.0,
+    "Def TD": 1.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 1.0,
+    "Def INT": 2.0,
+    "Fum Rec": 2.0,
+    "Def TD": 6.0
    }
   },
   {
@@ -7846,6 +8022,56 @@
     "Rush TD": 6.0,
     "Receptions": 1.0,
     "Rec Yds": 3.5
+   }
+  },
+  {
+   "owner": "LITTLE BUBS",
+   "player": "Jakobi Meyers",
+   "nfl": "JAX",
+   "pos": "WR",
+   "gp": 1,
+   "points": 10.5,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 4.0,
+    "Rec Yds": 85.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 2.0,
+    "Rec Yds": 8.5
+   }
+  },
+  {
+   "owner": "LITTLE JAMES",
+   "player": "Jaylen Waddle",
+   "nfl": "DEN",
+   "pos": "WR",
+   "gp": 2,
+   "points": 10.3,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 4.0,
+    "Rec Yds": 83.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 2.0,
+    "Rec Yds": 8.3
    }
   },
   {
@@ -7999,51 +8225,69 @@
    }
   },
   {
-   "owner": "VINNY",
-   "player": "Rico Dowdle",
-   "nfl": "PIT",
-   "pos": "RB",
-   "gp": 2,
+   "owner": "STEVE",
+   "player": "T.J. Hockenson",
+   "nfl": "MIN",
+   "pos": "TE",
+   "gp": 1,
    "points": 8.5,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 37.0,
+    "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 4.0,
-    "Rec Yds": 28.0,
+    "Receptions": 6.0,
+    "Rec Yds": 55.0,
     "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 3.7,
-    "Receptions": 2.0,
-    "Rec Yds": 2.8
+    "Receptions": 3.0,
+    "Rec Yds": 5.5
    }
   },
   {
-   "owner": "JAMES",
-   "player": "Bills",
-   "nfl": "BUF",
-   "pos": "DEF",
+   "owner": "MASON",
+   "player": "Wil Lutz",
+   "nfl": "DEN",
+   "pos": "K",
    "gp": 1,
    "points": 8.0,
    "stats": {
-    "Blocked Kick": 0.0,
-    "Sacks": 4.0,
-    "Safety": 0.0,
-    "Def INT": 1.0,
-    "Fum Rec": 1.0,
-    "Def TD": 0.0,
-    "Def Return TD": 0.0
+    "FG 0-19": 0.0,
+    "FG 20-29": 0.0,
+    "FG 30-39": 1.0,
+    "FG 40-49": 0.0,
+    "FG 50+": 0.0,
+    "PAT": 5.0
    },
    "pts_by_cat": {
-    "Sacks": 4.0,
-    "Def INT": 2.0,
-    "Fum Rec": 2.0
+    "FG 30-39": 3.0,
+    "PAT": 5.0
+   }
+  },
+  {
+   "owner": "POPPY",
+   "player": "Cairo Santos",
+   "nfl": "CHI",
+   "pos": "K",
+   "gp": 1,
+   "points": 8.0,
+   "stats": {
+    "FG 0-19": 0.0,
+    "FG 20-29": 0.0,
+    "FG 30-39": 1.0,
+    "FG 40-49": 1.0,
+    "FG 50+": 0.0,
+    "PAT": 1.0
+   },
+   "pts_by_cat": {
+    "FG 30-39": 3.0,
+    "FG 40-49": 4.0,
+    "PAT": 1.0
    }
   },
   {
@@ -8149,6 +8393,32 @@
     "Rush Yds": 2.6,
     "Receptions": 2.0,
     "Rec Yds": 2.6
+   }
+  },
+  {
+   "owner": "JACK",
+   "player": "Devin Singletary",
+   "nfl": "NYG",
+   "pos": "RB",
+   "gp": 3,
+   "points": 6.7,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 39.0,
+    "Rush TD": 0.0,
+    "Receptions": 3.0,
+    "Rec Yds": 13.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 3.9,
+    "Receptions": 1.5,
+    "Rec Yds": 1.3
    }
   },
   {
@@ -8329,29 +8599,49 @@
    }
   },
   {
-   "owner": "JACK",
-   "player": "Devin Singletary",
-   "nfl": "NYG",
-   "pos": "RB",
+   "owner": "JAMES",
+   "player": "DK Metcalf",
+   "nfl": "PIT",
+   "pos": "WR",
    "gp": 2,
-   "points": 5.2,
+   "points": 5.4,
    "stats": {
     "2-Pt Conv": 0.0,
     "Pass Yds": 0.0,
     "Pass TD": 0.0,
     "Pass INT": 0.0,
-    "Rush Yds": 34.0,
+    "Rush Yds": 0.0,
     "Rush TD": 0.0,
-    "Receptions": 2.0,
-    "Rec Yds": 8.0,
+    "Receptions": 5.0,
+    "Rec Yds": 29.0,
     "Rec TD": 0.0,
     "Return TD": 0.0,
     "Fumbles Lost": 0.0
    },
    "pts_by_cat": {
-    "Rush Yds": 3.4,
-    "Receptions": 1.0,
-    "Rec Yds": 0.8
+    "Receptions": 2.5,
+    "Rec Yds": 2.9
+   }
+  },
+  {
+   "owner": "JACK",
+   "player": "Steelers",
+   "nfl": "PIT",
+   "pos": "DEF",
+   "gp": 1,
+   "points": 5.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 3.0,
+    "Safety": 0.0,
+    "Def INT": 0.0,
+    "Fum Rec": 1.0,
+    "Def TD": 0.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 3.0,
+    "Fum Rec": 2.0
    }
   },
   {
@@ -8441,31 +8731,6 @@
    "pts_by_cat": {
     "Receptions": 2.5,
     "Rec Yds": 2.4
-   }
-  },
-  {
-   "owner": "JAMES",
-   "player": "DK Metcalf",
-   "nfl": "PIT",
-   "pos": "WR",
-   "gp": 1,
-   "points": 4.7,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 4.0,
-    "Rec Yds": 27.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 2.0,
-    "Rec Yds": 2.7
    }
   },
   {
@@ -8595,6 +8860,31 @@
    }
   },
   {
+   "owner": "MASON",
+   "player": "Adonai Mitchell",
+   "nfl": "NYJ",
+   "pos": "WR",
+   "gp": 1,
+   "points": 4.0,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 2.0,
+    "Rec Yds": 30.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 1.0,
+    "Rec Yds": 3.0
+   }
+  },
+  {
    "owner": "STEVE",
    "player": "Chargers",
    "nfl": "LAC",
@@ -8638,6 +8928,31 @@
    "pts_by_cat": {
     "Receptions": 1.0,
     "Rec Yds": 2.7
+   }
+  },
+  {
+   "owner": "VINNY",
+   "player": "Mason Taylor",
+   "nfl": "NYJ",
+   "pos": "TE",
+   "gp": 1,
+   "points": 3.5,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 2.0,
+    "Rec Yds": 25.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 1.0,
+    "Rec Yds": 2.5
    }
   },
   {
@@ -8754,6 +9069,26 @@
    }
   },
   {
+   "owner": "LITTLE BUBS",
+   "player": "Chiefs",
+   "nfl": "KC",
+   "pos": "DEF",
+   "gp": 1,
+   "points": 3.0,
+   "stats": {
+    "Blocked Kick": 0.0,
+    "Sacks": 3.0,
+    "Safety": 0.0,
+    "Def INT": 0.0,
+    "Fum Rec": 0.0,
+    "Def TD": 0.0,
+    "Def Return TD": 0.0
+   },
+   "pts_by_cat": {
+    "Sacks": 3.0
+   }
+  },
+  {
    "owner": "LITTLE DUANE",
    "player": "Browns",
    "nfl": "CLE",
@@ -8772,31 +9107,6 @@
    "pts_by_cat": {
     "Sacks": 1.0,
     "Def INT": 2.0
-   }
-  },
-  {
-   "owner": "LITTLE JAMES",
-   "player": "Jaylen Waddle",
-   "nfl": "DEN",
-   "pos": "WR",
-   "gp": 1,
-   "points": 2.7,
-   "stats": {
-    "2-Pt Conv": 0.0,
-    "Pass Yds": 0.0,
-    "Pass TD": 0.0,
-    "Pass INT": 0.0,
-    "Rush Yds": 0.0,
-    "Rush TD": 0.0,
-    "Receptions": 1.0,
-    "Rec Yds": 22.0,
-    "Rec TD": 0.0,
-    "Return TD": 0.0,
-    "Fumbles Lost": 0.0
-   },
-   "pts_by_cat": {
-    "Receptions": 0.5,
-    "Rec Yds": 2.2
    }
   },
   {
@@ -9019,6 +9329,32 @@
    }
   },
   {
+   "owner": "STEVE",
+   "player": "Jordyn Tyson",
+   "nfl": "NO",
+   "pos": "WR",
+   "gp": 1,
+   "points": 1.5,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 4.0,
+    "Rush TD": 0.0,
+    "Receptions": 1.0,
+    "Rec Yds": 6.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Rush Yds": 0.4,
+    "Receptions": 0.5,
+    "Rec Yds": 0.6
+   }
+  },
+  {
    "owner": "MASON",
    "player": "MarShawn Lloyd",
    "nfl": "GB",
@@ -9040,6 +9376,31 @@
    },
    "pts_by_cat": {
     "Rush Yds": 1.0
+   }
+  },
+  {
+   "owner": "BUBBA",
+   "player": "Michael Mayer",
+   "nfl": "LV",
+   "pos": "TE",
+   "gp": 1,
+   "points": 0.9,
+   "stats": {
+    "2-Pt Conv": 0.0,
+    "Pass Yds": 0.0,
+    "Pass TD": 0.0,
+    "Pass INT": 0.0,
+    "Rush Yds": 0.0,
+    "Rush TD": 0.0,
+    "Receptions": 1.0,
+    "Rec Yds": 4.0,
+    "Rec TD": 0.0,
+    "Return TD": 0.0,
+    "Fumbles Lost": 0.0
+   },
+   "pts_by_cat": {
+    "Receptions": 0.5,
+    "Rec Yds": 0.4
    }
   },
   {

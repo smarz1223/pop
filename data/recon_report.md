@@ -1,22 +1,20 @@
-# Pop Reconciliation: FAIL
-Updated 2026-11-22 18:36 UTC | Weeks entered: 10
+# Pop Reconciliation: LIVE
+Updated 2026-11-23 22:48 UTC | Weeks entered: 10
 
 | Team | Weekly Total | Calculated | DST Pts Allowed | DST Games | Check |
 |---|---|---|---|---|---|
-| STEVE | 1111.32 | 1102.62 | 9 | 10 | FAIL |
-| JACK | 950.28 | 949.28 | 1 | 10 | PASS |
-| VINNY | 1256.82 | 1255.82 | 1 | 10 | PASS |
-| LITTLE BUBS | 1045.28 | 1019.28 | 26 | 10 | PASS |
-| LITTLE JAMES | 981.22 | 973.22 | 8 | 10 | PASS |
-| MASON | 1029.06 | 1024.06 | 5 | 10 | PASS |
-| DUANE | 981.26 | 980.26 | 1 | 10 | PASS |
-| BUBBA | 1017.08 | 1019.88 | -3 | 10 | FAIL |
-| DOM | 1028.30 | 1039.30 | -11 | 10 | PASS |
-| POPPY | 995.86 | 997.86 | -2 | 10 | PASS |
-| JAMES | 1023.86 | 1015.86 | 8 | 10 | PASS |
-| LITTLE DUANE | 1192.92 | 1200.38 | -7 | 10 | FAIL |
+| STEVE | 1111.32 | 1182.00 | -71 | 11 | PENDING |
+| JACK | 950.28 | 1006.18 | -56 | 11 | PENDING |
+| VINNY | 1256.82 | 1336.08 | -79 | 11 | PENDING |
+| LITTLE BUBS | 1045.28 | 1123.44 | -78 | 11 | PENDING |
+| LITTLE JAMES | 981.22 | 1068.08 | -87 | 10 | PENDING |
+| MASON | 1029.06 | 1110.32 | -81 | 10 | PENDING |
+| DUANE | 981.26 | 1060.20 | -79 | 11 | PENDING |
+| BUBBA | 1017.08 | 1100.40 | -83 | 11 | PENDING |
+| DOM | 1028.30 | 1127.54 | -99 | 11 | PENDING |
+| POPPY | 995.86 | 1084.06 | -88 | 11 | PENDING |
+| JAMES | 1023.86 | 1120.96 | -97 | 11 | PENDING |
+| LITTLE DUANE | 1192.92 | 1280.58 | -88 | 11 | PENDING |
 
 ## Flags
-- STEVE: residual 8.70 is not a valid DST points-allowed total for 10 DST games
-- BUBBA: residual -2.80 is not a valid DST points-allowed total for 10 DST games
-- LITTLE DUANE: residual -7.46 is not a valid DST points-allowed total for 10 DST games
+- Game log shows 11 games but Weekly Scores has 10 weeks. Week in progress; reconciliation will settle once scores are entered.
